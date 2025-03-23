@@ -5,7 +5,7 @@ Windows-Szimplajó (telepítés)
 - Jobb gombos klikk a Startmenün, majd Lemezkezelés választása. (Nem csak egyszerűbb, de sokkal gyorsabb is a telepítés menete általában!)
 - Jobb klikk a Lemezkezelőben a C: (Windows) meghajtóra, majd Zsugorítás lehetőség választása.
 - A felugró ablakban a zsugorítás méretet beállítjuk 10000 MB-ra (lásd még a helyes méretezéshez a 4. pontot is, ahol kb. 70000 MB kell!), majd jóváhagyjuk az új partíció készítést. Az új partícióra jobb klikk, majd „Új, egyszerű kötet” parancs választása és végik klikkeljük -tovább- a formázásái folyamatot, aminek eredményeként kapunk egy új betűjellel (D: vagy E:, stb) ellátott kb. 8-9 GB-os (4. pont esetén több) Kötetet/meghajtót („Új kötet” névvel). Bezárjuk a lemezkezelőt (ha jól csináltuk, a Fájlkezelőben megjelenik egy új, D: vagy E: meghajtó).
-- Letöltjük a netről a Windows telepítő képfájlt/médiát (Windows ISO fájlt, a Microsoft https://www.microsoft.com/hu-hu/software-download/windows11 oldaláról , vagy – speciális, magyar nyelvű telepítő médiát – a https://massgrave.dev -ről, vagy más kedvenc helyünkről).
+- Letöltjük a netről a Windows telepítő képfájlt/médiát (Windows ISO fájlt, a Microsoft https://www.microsoft.com/hu-hu/software-download/windows11 oldaláról , vagy – speciális, magyar nyelvű telepítő médiát – a https://massgrave.dev -ről, vagy más kedvenc helyünkről: https://windowsxlite.com/ ).
 2. A letöltött Windows.ISO képfjálra
 - a Fájkezelőben jobb kattintás, majd „Csatolás” választása,
 - a megnyíló (csatolt) ablakban kijelöljük az összes mappát és fájlt (tehát az ISO teljes tartalmát), majd átmásoljuk (pl. Ctrl C, Ctrl V-vel) az egészet az 1. pontban létrehozott új kötetbe (D:, E:, stb). Bezárunk minden programot, kivéve a Fájlkezelőt.
