@@ -1,4 +1,4 @@
-# Windows-Simplegood
+# Windows-Simplegood 👌👍🙌
 Windows-Szimplajó (telepítés)
 
 1. Adathordozó (pl. USB) használata helyett lecsippentünk 1 „keveset” a meglévő Windows tárhelyünkből a gépünkön:
