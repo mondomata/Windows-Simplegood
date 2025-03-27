@@ -25,5 +25,5 @@ Windows-Szimplajó telepítés (Nem csak egyszerűbb így, de sokkal gyorsabb is
    
 ☝️☝️☝️Fontos: NE piszkáld sem a Lemezkezelőben, sem a Windows Telepítőben a System és Recovery partíciót (hagyd úgy, ahogy vannak)!!! Célszerű a fontosabb iratokat, fotókat, stb minden esetben kimenteni egy kártyára, vagy USB tárolóra (pendrájvra), bármilyen Windows telepítéskor! Meglévő Windows felülírásakor elvesznek a Windowsra telepített programok is, de természetesen az új Windowson ezek újra telepíthetők.
  
-+1 🥳 Windows aktiválás (magyar nyelvű szkript): https://drive.google.com/drive/folders/1m4t_hm1OKsj2OSDKkXJDh3a7ayw1g2iE
++1 🥳 Windows aktiválás (magyar nyelvű szkript): https://tinyurl.hu/PHaI
 
