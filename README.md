@@ -29,6 +29,6 @@ Ez esetben kattints a Start menüre, majd a Kikapcs.ikonra <b><kbd>(|)</kbd></b>
 +1 🥳 Windows aktiválás (magyar nyelvű szkript): https://tinyurl.hu/PHaI
 
 Egy Windows 11 telepítés képekben...
-https://lh3.google.com/u/0/d/12GJzHKCkH1YCkE6JRz90i2aesiUantKvXcLsYUD-QTw=w520-h390-p-k-nu-iv17
 
+https://docs.google.com/document/d/12GJzHKCkH1YCkE6JRz90i2aesiUantKvXcLsYUD-QTw/edit?usp=drivesdk
 
