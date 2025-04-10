@@ -2,7 +2,7 @@
 Windows-Szimplajó telepítés (Nem csak egyszerűbb így, de sokkal gyorsabb is a telepítés menete általában, és nem igényli a Windows ISO média fájl gyakori szokás szerinti kiírását külső programmal, mint pl. Rufus, vagy Media Creation Tool...<sup>Windows kell hozzá😬</sup>)
 
 1. Adathordozó (pl. USB) használata helyett lecsippentünk 1 „keveset” a meglévő Windows tárhelyünkből a gépünkön:
-- Egér jobboldali gombbal ( 🖱️<sub>↖️</sub> ) klikk a Windows 🪟Start tálcaikonon, majd Lemezkezelés választása. 
+- Egér jobboldali gombbal ( 🖱️<sub>↖️</sub> ) klikk a Windows Start<kbd>🪟</kbd> tálcaikonon, majd Lemezkezelés választása. 
 - A Lemezkezelés ablakban jobb klikk a <code>Windows (C:)</code> kötetre, majd a helyi menüben <tt>Kötet zsugorítása</tt> lehetőség választása. ![{47A9DFF5-E60C-4ECA-94F6-59443057CF51}](https://github.com/user-attachments/assets/88f57747-cd34-4f29-8abd-53538ee28ab2)
 - A felugró ablakban a zsugorítandó méretet beállítjuk 10000 MB-ra ![{3DEDB19B-E53F-4C3D-9578-5B79537053F4}](https://github.com/user-attachments/assets/2400f183-6a6f-4190-9ea4-ab75882d7ad7)
 <sup>(lásd még a helyes méretezéshez az 5. pontot, ahol több ajánlott!)</sup>, majd jóváhagyjuk az új partíció készítést. Most az új "Lefoglalatlan partícióra" jobb klikk és <tt>Új, egyszerű kötet</tt> parancs választása. Végig klikkeljük -mindent elfogadva- a formázásái folyamatot, aminek eredményeként kapunk egy új betűjellel (D:, stb) ellátott kb. 8-9 GB-os (4. pont esetén több) Kötetet/meghajtót „Új kötet” néven. Bezárjuk a lemezkezelőt. Ha jól csináltuk, a Fájlkezelőben is megjelenik az új kötet, új betűjellel.
