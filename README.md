@@ -36,7 +36,7 @@ Letöltjük a netről a <tt>Windows ISO</tt> fájlt: a Microsoft https://www.mic
    - a meglévő helyére, a „régi” Windows törlésével akarjuk-e telepíteni (lásd 5.),
    - VAGY az eredeti megtartása mellett egy második Windowst akarunk (lásd 6.).
 
- ## "Tiszta" Új Windows
+ ## "Tiszta" Új Windows <sup>haladóknak</sup>
 5. **Felülírható a meglévő Windows így ("tiszta" telepítés!)**: készíts a Windows Partíciókezelővel (1.pont!) egy új, kb. 10GB-os  FAT partíciót a lemezeden, adj neki **F:** betűjelet.  Csatold a fájlkezelőn a nevére kattintva a telepítő ISO-t (D: , vagy G: vagy hasonló meghajtón fog megnyílni), abból másold az összes mappát és fájlt az új, **F:** betűjelű partícióra. Windows Helyreállítási Módban (ezt <kbd>Shift</kbd>-et nyomva tartva a Start menüben a *Kikapcsolás*/*Újraindítás*-ra kattintva is el lehet érni), majd az újraindulás után megjelenő spec. menüben válaszd a *Hibaelhárítás -> Speciális lehetőségek -> Parancssor* lehetőséget. Gépeld be: **F:\setup** és [Enter]-rel indíthatod a Windows telepítőt. A telepítőben a meglévő **C:** Windows partíciót választva a régi Windowst az új Windows felülírja (<i>mindent töröl!!!</i>). Ha hibát jelez a Parancssor (nem indul a telepítő), egyszerűen ismételd meg a parancs kiadását így: <tt>D:\setup</tt> <kbd>[Enter]</kbd> vagy <tt>G:\setup</tt> <kbd>[Enter]</kbd>, stb. (abc betűivel) amíg rátalálva a helyes betűjelre elindul a telepítő. Windows 10-en meglehet, hogy az iso-t a fájlkezelő nem tudja megnyitni, ilyenkor töltsd le és használd pl. a **7zip** programot: https://www.7-zip.org/
 
 ## 2 Windows (dual boot)
