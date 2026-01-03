@@ -25,7 +25,7 @@ Letöltjük a netről a <tt>Windows ISO</tt> fájlt: a Microsoft https://www.mic
 ## ISO kezelési módok
 2. A letöltött Windows.ISO-ra...
 - a Fájkezelőben jobb kattintás, majd ⨀Csatlakoztatás választása, ![{C653C4A7-D76C-4838-835F-EB3B21020301}](https://github.com/user-attachments/assets/2778f1c2-580c-487f-8a53-571da122c13a)
-  (Win 10 esetén lehet, hogy az .iso csak külső programmal, pl. 7zip-pel nyitható meg.)
+- Win 10 esetén lehet, hogy az .iso csak külső programmal, pl. 7zip-pel nyitható meg. (https://7zip.org)
  
 3. ISO tartalom, felépítés:
   ![{98ECB815-6026-4CE9-BA78-8EE0756B5A50}](https://github.com/user-attachments/assets/dc4f5c8c-2210-48ed-8dc1-5d1a762a79b7)
