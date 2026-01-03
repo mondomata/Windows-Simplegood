@@ -28,9 +28,12 @@ Letöltjük a netről a <tt>Windows ISO</tt> fájlt: a Microsoft https://www.mic
  
 3. ISO tartalom, felépítés:
   ![{98ECB815-6026-4CE9-BA78-8EE0756B5A50}](https://github.com/user-attachments/assets/dc4f5c8c-2210-48ed-8dc1-5d1a762a79b7)
-* az eredeti Windows.iso fájlok kivétel nélkül tartalmazzák a fotón látható mappákat és fájlokat, egyes telepítőknél - pl. módosított Windows X-Lite - viszont nincs support mappa, illetve a setup.exe a <code>sources</code> mappában van, abból indítható a telepítés...
+* az eredeti Windows.iso fájlok kivétel nélkül tartalmazzák a fotón látható mappákat és fájlokat, egyes telepítőknél - pl. Windows X-Lite - viszont nincs support mappa, illetve a **setup.exe a sources mappában** van, amivel indítható a telepítés...
 
-4. A telepítőben a szerződés elfogadása (accept) után az új Windows partícióját kell kijelölni: 2 lehetőség van attól függően, hogy a meglévő helyére, a „régi” Windows törlésével (lásd 5.) akarjuk-e telepíteni, VAGY az eredeti megtartása mellett egy második Windowst akarunk (lásd 6.).
+4. A telepítőben majd a szerződés elfogadása (accept) után az *új Windows partícióját kell kijelölni*:
+   2 lehetőség van attól függően, hogy
+   - a meglévő helyére, a „régi” Windows törlésével akarjuk-e telepíteni (lásd 5.),
+   - VAGY az eredeti megtartása mellett egy második Windowst akarunk (lásd 6.).
 
  ## "Tiszta" Új Windows
 5. **Felülírható a meglévő Windows így ("tiszta" telepítés!)**: készíts a Windows Partíciókezelővel (1.pont!) egy új, kb. 10GB-os  FAT partíciót a lemezeden, adj neki **F:** betűjelet.  Csatold a fájlkezelőn a nevére kattintva a telepítő ISO-t (D: , vagy G: vagy hasonló meghajtón fog megnyílni), abból másold az összes mappát és fájlt az új, **F:** betűjelű partícióra. Windows Helyreállítási Módban (ezt <kbd>Shift</kbd>-et nyomva tartva a Start menüben a *Kikapcsolás*/*Újraindítás*-ra kattintva is el lehet érni), majd az újraindulás után megjelenő spec. menüben válaszd a *Hibaelhárítás -> Speciális lehetőségek -> Parancssor* lehetőséget. Gépeld be: **F:\setup** és [Enter]-rel indíthatod a Windows telepítőt. A telepítőben a meglévő **C:** Windows partíciót választva a régi Windowst az új Windows felülírja (<i>mindent töröl!!!</i>). Ha hibát jelez a Parancssor (nem indul a telepítő), egyszerűen ismételd meg a parancs kiadását így: <tt>D:\setup</tt> <kbd>[Enter]</kbd> vagy <tt>G:\setup</tt> <kbd>[Enter]</kbd>, stb. (abc betűivel) amíg rátalálva a helyes betűjelre elindul a telepítő. Windows 10-en meglehet, hogy az iso-t a fájlkezelő nem tudja megnyitni, ilyenkor töltsd le és használd pl. a **7zip** programot: https://www.7-zip.org/
