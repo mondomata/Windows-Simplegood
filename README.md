@@ -1,4 +1,4 @@
-II# Windows-Simplegood 👌👍🙌
+# Windows-Simplegood 👌👍🙌
 Windows-Szimplajó telepítés (Nem csak egyszerűbb így, de sokkal gyorsabb is a telepítés menete általában, és nem igényli a Windows ISO média fájl gyakori szokás szerinti kiírását külső programmal, mint pl. Rufus, vagy Media Creation Tool...<sup>Windows kell hozzá😬</sup>)
 
 1. Adathordozó (pl. USB) használata helyett lecsippentünk 1 „keveset” a meglévő Windows tárhelyünkből a gépünkön:
