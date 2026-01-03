@@ -15,7 +15,8 @@ Bezárjuk a lemezkezelőt. Ha jól csináltuk, a Fájlkezelőben is megjelenik a
   
   ☝️Figyelmeztetés: <sup>a MS eredeti Windows 11 ISO-k (kivéve az Enterprise👌) csak a MS szerinti hardverkövetelményeknek megfelelő gépre telepíthetők ezzel a módszerrel, járj utána a neten, ha nem tudod, mi az. Az egyik kritikus hardver a TPM2 biztonsági "csip"; jobb klikk a Startmenün, Futtatás: <tt>tpm.msc</tt> begépelése és Enter ![{FFFC60A6-CE5D-4D29-A61A-8DD1B380D479}](https://github.com/user-attachments/assets/45b3486f-9301-40b7-9e64-758661921f1f) felugró ablakban részletes tájékoztatás jelenik meg a géped TPM eszközéről.</sup> A Windows X-Lite ISO-ban, vagy a Win11Long_Alexa ISO-kban ki van kapcsolva ez a védelem, tehát akadálytalanul települhet szinte bármely, viszonylag régebbi számítógépre</sup>
 
-##Telepítés variák
+##Telepítési módok
+
 2. A letöltött Windows.ISO-ra
 - a Fájkezelőben jobb kattintás, majd ⨀Csatlakoztatás választása, ![{C653C4A7-D76C-4838-835F-EB3B21020301}](https://github.com/user-attachments/assets/2778f1c2-580c-487f-8a53-571da122c13a) (Win 10 esetén leet, hogy az .iso csak külső programmal, pl. 7zip-pel nyitható meg.)
 
