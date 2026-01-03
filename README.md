@@ -1,6 +1,7 @@
 # Windows-Simplegood 👌👍🙌
 Windows-Szimplajó telepítés (Nem csak egyszerűbb így, de sokkal gyorsabb is a telepítés menete általában, és nem igényli a Windows ISO média fájl gyakori szokás szerinti kiírását külső programmal, mint pl. Rufus, vagy Media Creation Tool...<sup>Windows kell hozzá😬</sup>)
 
+## Partíció
 1. Adathordozó (pl. USB) használata helyett lecsippentünk 1 „keveset” a meglévő Windows tárhelyünkből a gépünkön:
 - Egér jobboldali gombbal ( 🖱️<sub>↖️</sub> ) klikk a Windows Start<kbd>![windowsbill](https://github.com/user-attachments/assets/6e47728d-5bf1-45a7-8cf9-5f72a2cb16a9)
 </kbd> tálcaikonon, majd a felugró listán **Lemezkezelés** választása. 
@@ -8,11 +9,13 @@ Windows-Szimplajó telepítés (Nem csak egyszerűbb így, de sokkal gyorsabb is
 - A felugró ablakban a zsugorítandó méretet beállítjuk 10000 MB-ra ![{3DEDB19B-E53F-4C3D-9578-5B79537053F4}](https://github.com/user-attachments/assets/2400f183-6a6f-4190-9ea4-ab75882d7ad7)
 majd jóváhagyjuk az új partíció készítést. Most az új **Lefoglalatlan partíció**ra jobb klikk és <tt>Új, egyszerű kötet</tt> parancs választása (+ ajánlott NTFS helyett FAT partíciós rendszer beállítása). Végig klikkeljük -mindent elfogadva- a formázásái folyamatot, aminek eredményeként kapunk egy új betűjellel (D:, stb) ellátott közel 10 GB-os kötetet/meghajtót „Új kötet” néven (ha particionálás közben nem neveztük át).
 Bezárjuk a lemezkezelőt. Ha jól csináltuk, a Fájlkezelőben is megjelenik az új kötet, új betűjellel.
+## ISO fájl
 - Letöltjük a netről a <tt>Windows ISO</tt> fájlt: a Microsoft https://www.microsoft.com/hu-hu/software-download/windows11 oldaláról , vagy (egyszerűbben) a https://msdl.gravesoft.dev/#3262 címről, vagy más kedvenc helyünkről:
   https://windowsxlite.com/ https://github.com/mondomata/Windows11Long_Alexa❤️
   
   ☝️Figyelmeztetés: <sup>a MS eredeti Windows 11 ISO-k (kivéve az Enterprise👌) csak a MS szerinti hardverkövetelményeknek megfelelő gépre telepíthetők ezzel a módszerrel, járj utána a neten, ha nem tudod, mi az. Az egyik kritikus hardver a TPM2 biztonsági "csip"; jobb klikk a Startmenün, Futtatás: <tt>tpm.msc</tt> begépelése és Enter ![{FFFC60A6-CE5D-4D29-A61A-8DD1B380D479}](https://github.com/user-attachments/assets/45b3486f-9301-40b7-9e64-758661921f1f) felugró ablakban részletes tájékoztatás jelenik meg a géped TPM eszközéről.</sup> A Windows X-Lite ISO-ban, vagy a Win11Long_Alexa ISO-kban ki van kapcsolva ez a védelem, tehát akadálytalanul települhet szinte bármely, viszonylag régebbi számítógépre</sup>
-  
+
+##Telepítés variák
 2. A letöltött Windows.ISO-ra
 - a Fájkezelőben jobb kattintás, majd ⨀Csatlakoztatás választása, ![{C653C4A7-D76C-4838-835F-EB3B21020301}](https://github.com/user-attachments/assets/2778f1c2-580c-487f-8a53-571da122c13a) (Win 10 esetén leet, hogy az .iso csak külső programmal, pl. 7zip-pel nyitható meg.)
 
