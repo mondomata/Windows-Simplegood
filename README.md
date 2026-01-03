@@ -9,7 +9,8 @@ Windows-Szimplajó telepítés (Nem csak egyszerűbb így, de sokkal gyorsabb is
    ![{47A9DFF5-E60C-4ECA-94F6-59443057CF51}](https://github.com/user-attachments/assets/88f57747-cd34-4f29-8abd-53538ee28ab2)
 - A felugró ablakban a zsugorítandó méretet beállítjuk 10000 MB-ra
    ![{3DEDB19B-E53F-4C3D-9578-5B79537053F4}](https://github.com/user-attachments/assets/2400f183-6a6f-4190-9ea4-ab75882d7ad7)
-majd jóváhagyjuk az új partíció készítést. Most az új **Lefoglalatlan partíció**ra jobb klikk és <tt>Új, egyszerű kötet</tt> parancs választása (+ ajánlott NTFS helyett FAT partíciós rendszer beállítása). Végig klikkeljük -mindent elfogadva- a formázásái folyamatot, aminek eredményeként kapunk egy új betűjellel (D:, stb) ellátott közel 10 GB-os kötetet/meghajtót „Új kötet” néven (ha particionálás közben nem neveztük át).
+majd jóváhagyjuk az új partíció készítést.
+- Most az új **Lefoglalatlan partíció**ra jobb klikk és <tt>Új, egyszerű kötet</tt> parancs választása (+ ajánlott NTFS helyett FAT partíciós rendszer beállítása). Végig klikkeljük -mindent elfogadva- a formázásái folyamatot, aminek eredményeként kapunk egy új betűjellel (D:, stb) ellátott közel 10 GB-os kötetet/meghajtót „Új kötet” néven (ha particionálás közben nem neveztük át).
 Bezárjuk a lemezkezelőt. Ha jól csináltuk, a Fájlkezelőben is megjelenik az új kötet, új betűjellel.
 
 ## Windows ISO fájl
