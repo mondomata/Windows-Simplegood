@@ -43,6 +43,7 @@ A Windows telepítés ablakban a meglévő **C:** Windows partíciót válaszd (
 ## 2 Windows (dual boot)
 6. **Két Windows 1 gépen: Régi és Új** (bárkinek ajánlott, nincs kockázata). Végeredményként a telepítés után a gép indításakor a régi és az új Windows között választhatsz majd egy kettős -„dual boot”- menüből.
    A 2. pont szerint csatolt ISO-ból a *setup.exe*-re kattintás után válaszd a Windows telepítőben a **Windows** partíciót, majd abból csípj le (*Extend* gombbal lehet) egy min. 60000 MB-os újabb, "üres" partíciót (<i>ebben az esetben erre az üres partícióra kattintva kezdd meg a telepítést), majd folytasd a telepítő-ablakban a telepítést.<sup>Ennek a megoldásnak később 2 folytatása is lehet: attól függően, h a használat alapján melyik tetszik jobban, a megtartani kívánt Windows Lemezkezelőjében törölheted a másik (inaktív) Windowsnak a partícióját, így automatikusan újra 1 Windows-os géped lesz.</sup>
+
 *Ha nem szeretnél a telepítés közben bajlódni a második Windows partícióval, a fentebb 1. pont szerint eljárva készíts még a telepítés megkezdése előtt egy min.60000 MB-os, NTFS partíciót!*
   Ennyi.🙌🙌🙌
 <hr>
