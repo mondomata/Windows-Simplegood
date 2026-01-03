@@ -28,7 +28,7 @@ Letöltjük a netről a <tt>Windows ISO</tt> fájlt: a Microsoft https://www.mic
  
 3. ISO tartalom, felépítés:
   ![{98ECB815-6026-4CE9-BA78-8EE0756B5A50}](https://github.com/user-attachments/assets/dc4f5c8c-2210-48ed-8dc1-5d1a762a79b7)
-- az eredeti Windows.iso fájlok kivétel nélkül tartalmazzák a fotón látható mappákat és fájlokat (+ egyéb is lehet),
+- az eredeti Windows.iso fájlok kivétel nélkül tartalmazzák a fotón látható mappákat és fájlokat (méretek változók + egyéb is lehet),
 - egyes telepítőknél - pl. Windows X-Lite - viszont nincs support mappa, illetve a **setup.exe a sources mappában** van, amivel indítható a telepítés...
 
 4. A telepítőben majd a szerződés elfogadása (accept) után az *új Windows partícióját kell kijelölni*:
