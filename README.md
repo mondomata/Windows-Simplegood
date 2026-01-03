@@ -13,7 +13,7 @@ Windows-Szimplajó telepítés (Nem csak egyszerűbb így, de sokkal gyorsabb is
 2. A letöltött Windows.ISO-ra
 - a Fájkezelőben jobb kattintás, majd ⨀Csatlakoztatás választása, ![{C653C4A7-D76C-4838-835F-EB3B21020301}](https://github.com/user-attachments/assets/2778f1c2-580c-487f-8a53-571da122c13a)
 
-- a megnyíló (csatolt) ablakban kijelöljük egérrel az összes mappát és fájlt (tehát az ISO teljes tartalmát), majd átmásoljuk (pl. <kbd>Ctrl</kbd><kbd>C</kbd>, <kbd>Ctrl</kbd><kbd>V</kbd>-vel) az egészet az 1. pontban létrehozott új kötetbe (D:,stb). Bezárunk minden programot, kivéve a Fájlkezelőt.
+- a megnyíló (csatolt) ablakban kijelöljük egérrel az összes mappát és fájlt (tehát az ISO teljes tartalmát), majd átmásoljuk (pl. <kbd>Ctrl</kbd><kbd>C</kbd>, <kbd>Ctrl</kbd><kbd>V</kbd>-vel) az egészet az 1. pontban létrehozott új kötetbe. Bezárunk minden programot, kivéve a Fájlkezelőt.
 3. Windows telepítés megkezdéséhez az "Új kötet" meghajtóra másolt <b><code>setup.exe</code></b> fájlra kattintunk, felugró ablakban elindul a Windows telepítés progi… <span style="float:right">![{98ECB815-6026-4CE9-BA78-8EE0756B5A50}](https://github.com/user-attachments/assets/dc4f5c8c-2210-48ed-8dc1-5d1a762a79b7)</span> <sup>* az eredeti Windows.iso fájlok kivétel nélkül tartalmazzák a fotón látható mappákat és fájlokat, egyes telepítőknél - pl. módosított Windows X-Lite - viszont nincs support mappa, illetve a setup.exe a <code>sources</code> mappában van, abból indítható a telepítés</sup>
 
     A telepítőben a szerződés elfogadása (accept) után az új Windows partícióját kell kijelölni: 2 lehetőség van attól függően, hogy a meglévő helyére („régi” Windows törlésével, lásd 4.) akarjuk-e telepíteni, VAGY az eredeti megtartása mellett egy második Windowst akarunk (lásd 5.).
