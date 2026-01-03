@@ -11,7 +11,7 @@ majd jóváhagyjuk az új partíció készítést. Most az új **Lefoglalatlan p
 Bezárjuk a lemezkezelőt. Ha jól csináltuk, a Fájlkezelőben is megjelenik az új kötet, új betűjellel.
 ## ISO fájl
 - Letöltjük a netről a <tt>Windows ISO</tt> fájlt: a Microsoft https://www.microsoft.com/hu-hu/software-download/windows11 oldaláról , vagy (egyszerűbben) a https://msdl.gravesoft.dev/#3262 címről, vagy más kedvenc helyünkről:
-  https://windowsxlite.com/ https://github.com/mondomata/Windows11Long_Alexa❤️
+  https://windowsxlite.com/ vagy https://github.com/mondomata/Windows11Long_Alexa❤️
   
   ☝️Figyelmeztetés: <sup>a MS eredeti Windows 11 ISO-k (kivéve az Enterprise👌) csak a MS szerinti hardverkövetelményeknek megfelelő gépre telepíthetők ezzel a módszerrel, járj utána a neten, ha nem tudod, mi az. Az egyik kritikus hardver a TPM2 biztonsági "csip"; jobb klikk a Startmenün, Futtatás: <tt>tpm.msc</tt> begépelése és Enter ![{FFFC60A6-CE5D-4D29-A61A-8DD1B380D479}](https://github.com/user-attachments/assets/45b3486f-9301-40b7-9e64-758661921f1f) felugró ablakban részletes tájékoztatás jelenik meg a géped TPM eszközéről.</sup> A Windows X-Lite ISO-ban, vagy a Win11Long_Alexa ISO-kban ki van kapcsolva ez a védelem, tehát akadálytalanul települhet szinte bármely, viszonylag régebbi számítógépre</sup>
 
