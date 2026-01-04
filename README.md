@@ -20,8 +20,8 @@ Letöltjük a netről a "telepítőképet", azaz a <tt>Windows ISO</tt> fájlt: 
 > ...vagy letöltünk Windows ISO-t más kedvenc helyünkről (jóval lazább hardverkövetelményekkel), pl.: https://windowsxlite.com/ (kis hátránya, hogy angolul "beszél", de a telepítés után > magyarítani lehet) vagy https://github.com/mondomata/Windows11Long_Alexa❤️ (utóbbi magyar, nyomkövetőktől és hirdető/reklám progiktól mentes Windows 11!)
   
 > [!WARNING]
-> <tt>☝️Figyelmeztetés: a MS eredeti Windows 11 ISO-k (kivéve az Enterprise👌) csak a MS szerinti hardverkövetelményeknek, úgymint: secureboot, TPM2, minimum 4 GB RAM, '2019.+os
-> gyártású' intel proci, vagy Win11 által támogatott Ryzen, stb.) megfelelő gépre telepíthetők ezzel a módszerrel, járj utána a neten, ha nem tudod, mi az. 
+> <tt>☝️Figyelmeztetés: a MS eredeti Windows 11 ISO-k (kivéve az Enterprise👌) csak a MS szerinti hardverkövetelményeknek, úgymint: secureboot, TPM2, minimum 4 GB RAM, 2019. utáni
+> gyártású intel proci, vagy Win11 által támogatott Ryzen, stb.) megfelelő gépre telepíthetők ezzel a módszerrel, járj utána a neten, ha nem tudod, mi az. 
 > Az egyik kritikus hardver a TPM2 biztonsági eszköz; jobb klikk a Startmenün, futtatás: **tpm.msc** begépelésére és <kbd>Enter</kbd>-re
 > felugró ablakban részletes tájékoztatás jelenik meg a saját géped TPM eszközéről (ha 2-nél alacsonyabb verziós, NEM lehet a gépedre eredeti MS Windows 11-et telepíteni). 
 > A Windows X-Lite ISO-ban, vagy a ❤️ Win11Long_Alexa ISO-kban ki van kapcsolva ez a védelem, tehát akadálytalanul települhet szinte bármely, viszonylag régebbi számítógépre is.</tt>
