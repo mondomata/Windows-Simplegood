@@ -6,7 +6,7 @@
 Ehhez lecsippentünk 1 „keveset” a meglévő lemez tárhelyünkből a gépünkön:
 - Egér jobboldali gombbal ( 🖱️<sub>↖️</sub> ) klikk a Windows Start<kbd>![windowsbill](https://github.com/user-attachments/assets/6e47728d-5bf1-45a7-8cf9-5f72a2cb16a9)
 </kbd> tálcaikonon, majd a felugró listán **Lemezkezelés** választása. 
-- A Lemezkezelés ablakban jobb klikk a **Windows (C:)** kötetre, majd a helyi menüben <tt>Kötet zsugorítása</tt> lehetőség választása.
+- A Lemezkezelés ablakban jobbgombos egér klikk a kék **Windows (C:)** kötetre, majd a helyi menüben *Kötet zsugorítása* lehetőség választása.
    ![{47A9DFF5-E60C-4ECA-94F6-59443057CF51}](https://github.com/user-attachments/assets/88f57747-cd34-4f29-8abd-53538ee28ab2)
 - A felugró ablakban a zsugorítandó méretet beállítjuk 10000 MB-ra
    ![{3DEDB19B-E53F-4C3D-9578-5B79537053F4}](https://github.com/user-attachments/assets/2400f183-6a6f-4190-9ea4-ab75882d7ad7)
