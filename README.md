@@ -3,6 +3,7 @@
 > **Windows-Szimplajó telepítés beépített HDD/SSD lemezről: USB nélkül egyszerűbb, sokkal gyorsabb a Windows telepítés és nem igényli a Windows ISO média fájl gyakori szokás szerinti
 > kiírását külső programmal, mint pl. Rufus, vagy Media Creation Tool...
 > <br><sup>'Csak' meglévő Windows kell hozzá😬</sup>**
+
 > [!NOTE]
 > Nagyon nagy erő kell 1 Windowst elrontani...igazából csak a gyengéknek sikerülhet.🥳🥳🥳
 > 
