@@ -23,9 +23,12 @@ Fájlkezelő:
 
 
 ## Windows ISO fájl
-Letöltjük a netről a "telepítőképet", azaz a <tt>Windows ISO</tt> fájlt: a Microsoft https://www.microsoft.com/hu-hu/software-download/windows11 oldaláról , vagy (egyszerűbben) a https://msdl.gravesoft.dev/#3262 címről (ezek szigorú hardverkövetelményű Windows 11 25H2 iso-k).
+Letöltjük a netről a "telepítőképet", azaz a <tt>Windows ISO</tt> fájlt: 
+- a Microsoft https://www.microsoft.com/hu-hu/software-download/windows11 oldaláról,
+- vagy (egyszerűbben) a https://msdl.gravesoft.dev/#3262 címről
+(ezek szigorú hardverkövetelményű Windows 11 25H2 iso-k).
 > [!TIP]
-> ...vagy letöltünk Windows ISO-t más kedvenc helyünkről (jóval lazább hardverkövetelményekkel), pl.: https://windowsxlite.com/ (kis hátránya, hogy angolul "beszél", de a telepítés után > magyarítani lehet) vagy https://github.com/mondomata/Windows11Long_Alexa❤️ (utóbbi magyar, nyomkövetőktől és hirdető/reklám progiktól mentes Windows 11!)
+> ...Letöltünk Windows ISO-t más kedvenc helyünkről (jóval lazább hardverkövetelményekkel), pl.: https://windowsxlite.com/ (kis hátránya, hogy angolul "beszél", de a telepítés után > magyarítani lehet) vagy https://github.com/mondomata/Windows11Long_Alexa❤️ (utóbbi magyar, nyomkövetőktől és hirdető/reklám progiktól mentes Windows 11!)
   
 > [!WARNING]
 > ☝️Figyelmeztetés: a MS eredeti Windows 11 ISO-k (kivéve az Enterprise👌) csak a MS szerinti hardverkövetelményeknek, úgymint: secureboot, TPM2, minimum 4 GB RAM, 2019. után
