@@ -38,11 +38,13 @@ Letöltjük a netről a "telepítőképet", azaz a <tt>Windows ISO</tt> fájlt: 
 ## ISO csatlakoztatási módok
 2. Az ISO-k tul.képpen spec. csomagolt állományok, amelyek könyvtárakat (mappákat), fájlokat tartalmaznak, megnyitásuk speciális.
 A letöltött Windows.ISO-ra...
-- a Fájkezelőben jobb kattintás, majd ⨀Csatlakoztatás választása, ![{C653C4A7-D76C-4838-835F-EB3B21020301}](https://github.com/user-attachments/assets/2778f1c2-580c-487f-8a53-571da122c13a)
+- a Fájkezelőben jobb kattintás, majd ⨀Csatlakoztatás választása:
+   ![{C653C4A7-D76C-4838-835F-EB3B21020301}](https://github.com/user-attachments/assets/2778f1c2-580c-487f-8a53-571da122c13a)
 - Win 10 esetén lehet, hogy az ISO csak külső programmal, pl. winrar, 7zip nyitható meg. (https://7zip.org)
  
 3. Windows ISO tartalom, felépítés (tipikusan):
   ![{98ECB815-6026-4CE9-BA78-8EE0756B5A50}](https://github.com/user-attachments/assets/dc4f5c8c-2210-48ed-8dc1-5d1a762a79b7)
+
 - az eredeti MS Windows.iso állományok kivétel nélkül tartalmazzák a fotón látható mappákat és fájlokat (méretek változók + egyéb is lehet),
 - egyes telepítőknél - pl. Windows X-Lite - viszont nincs support mappa, illetve a telepítés indító **setup.exe a sources mappában** van.
 
