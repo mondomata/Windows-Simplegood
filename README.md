@@ -12,7 +12,9 @@ Ehhez lecsippentünk 1 „keveset” a meglévő lemez tárhelyünkből a gépü
    ![{3DEDB19B-E53F-4C3D-9578-5B79537053F4}](https://github.com/user-attachments/assets/2400f183-6a6f-4190-9ea4-ab75882d7ad7)
 - Most az új (fekete) **Lefoglalatlan partíció**ra jobb gombos egér klikk, majd a felugró listán *Új, egyszerű kötet* parancsra klikkelj (+ ajánlott NTFS helyett FAT32 fájlrendszerű partíciós tábla beállítása). Végig klikkeljük - tovább, tovább... mindent elfogadva - a particionálási folyamatot, aminek eredményeként kapunk egy új betűjellel ellátott közel 10 GB-os kötetet/meghajtót „Új kötet” néven (ha particionálás közben nem neveztük át). A betűjelet particionálás közben ajánla a Lemezkezelő, általában **D:** a jó, ha nincs több partíció és/vagy CD/DVD lejátszó a gépben<sup>ami általában D:-re van csatolva)</sup>, ha van lejátszó, akkor a soron következő betű, pl. E:, F: stb. lesz a jó.
 Bezárjuk a lemezkezelőt. Ha jól csináltuk, a Fájlkezelőben is megjelenik az új kötet, új betűjellel.
+
 Íme a képen egy tipikus partíciós tábla, ahol a "tartalékként" is használt Windows telepítő ISO az **F:** meghajtóra van helyezve:
+
 <br>Lemezkezelő:
 <br>
 <img width="697" height="100" alt="{F115E94F-AC73-4425-8B7E-31F0B44B8772}" src="https://github.com/user-attachments/assets/530d2215-8923-4435-90a5-e107e1ed859e" />
