@@ -5,7 +5,7 @@
 > <br><sup>'Csak' meglévő Windows kell hozzá😬</sup>**
 
 > [!NOTE]
-> Nagyon nagy erő kell 1 Windowst elrontani...igazából csak a gyengéknek sikerülhet.🥳🥳🥳
+> Óriási erő kell 1 Windowst elrontani...igazából a gyengéknek sikerülhet.🥳🥳🥳
 > 
 ## Telepítő Partíció <sup>USB adathordozó helyett</sup>
 1. Adathordozó (pl. USB) használata helyett a gépünk lemezén (ez a tároló általában jóval gyorsabb, mint az USB) készítünk és használunk Windows telepítőt.
