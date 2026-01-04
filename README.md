@@ -1,7 +1,7 @@
 # 🪟Windows-Simplegood 👌👍🙌
 **Windows-Szimplajó telepítés beépített HDD/SSD lemezről: nem csak egyszerűbb így, de sokkal gyorsabb is a telepítés menete és nem igényli a Windows ISO média fájl gyakori szokás szerinti kiírását külső programmal, mint pl. Rufus, vagy Media Creation Tool...<sup>'Csak' meglévő Windows kell hozzá😬</sup>)**
 
-## Telepítő Partíció <sup>USB tárhely helyett</sup>
+## Telepítő Partíció <sup>USB adathordozó helyett</sup>
 1. Adathordozó (pl. USB) használata helyett lecsippentünk 1 „keveset” a meglévő Windows tárhelyünkből a gépünkön:
 - Egér jobboldali gombbal ( 🖱️<sub>↖️</sub> ) klikk a Windows Start<kbd>![windowsbill](https://github.com/user-attachments/assets/6e47728d-5bf1-45a7-8cf9-5f72a2cb16a9)
 </kbd> tálcaikonon, majd a felugró listán **Lemezkezelés** választása. 
