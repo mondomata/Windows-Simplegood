@@ -8,11 +8,13 @@ Ehhez lecsippentünk 1 „keveset” a meglévő lemez tárhelyünkből a gépü
 </kbd> tálcaikonon, majd a felugró listán **Lemezkezelés** választása. 
 - A Lemezkezelés ablakban jobbgombos egér klikk a kék **Windows (C:)** kötetre, majd a helyi menüben *Kötet zsugorítása* lehetőség választása.
    ![{47A9DFF5-E60C-4ECA-94F6-59443057CF51}](https://github.com/user-attachments/assets/88f57747-cd34-4f29-8abd-53538ee28ab2)
-- A felugró ablakban a zsugorítandó méretet beállítjuk 10000 MB-ra
+- A felugró ablakban a zsugorítandó méretet beállítjuk 10000 (tízezer) MB-ra (ez kb.9,5 GB)
    ![{3DEDB19B-E53F-4C3D-9578-5B79537053F4}](https://github.com/user-attachments/assets/2400f183-6a6f-4190-9ea4-ab75882d7ad7)
 majd jóváhagyjuk az új partíció készítést.
-- Most az új (fekete) **Lefoglalatlan partíció**ra jobb gombos egér klikk, majd a felugró listán *Új, egyszerű kötet* parancsra klikkelj (+ ajánlott NTFS helyett FAT partíciós rendszer beállítása). Végig klikkeljük -mindent elfogadva- a particionálási folyamatot, aminek eredményeként kapunk egy új betűjellel ellátott közel 10 GB-os kötetet/meghajtót „Új kötet” néven (ha particionálás közben nem neveztük át). A betűjelet particionálás közben ajánla a Lemezkezelő, általában **D:** a jó, ha nincs több partíció és/vagy CD/DVD lejátszó a gépben<sup>ami általában D:-re van csatolva)</sup>, ha van lejátszó, akkor a soron következő betű, pl. E:, F: stb. lesz a jó.
+- Most az új (fekete) **Lefoglalatlan partíció**ra jobb gombos egér klikk, majd a felugró listán *Új, egyszerű kötet* parancsra klikkelj (+ ajánlott NTFS helyett FAT32 fájlrendszerű partíciós tábla beállítása). Végig klikkeljük - tovább, tovább... mindent elfogadva - a particionálási folyamatot, aminek eredményeként kapunk egy új betűjellel ellátott közel 10 GB-os kötetet/meghajtót „Új kötet” néven (ha particionálás közben nem neveztük át). A betűjelet particionálás közben ajánla a Lemezkezelő, általában **D:** a jó, ha nincs több partíció és/vagy CD/DVD lejátszó a gépben<sup>ami általában D:-re van csatolva)</sup>, ha van lejátszó, akkor a soron következő betű, pl. E:, F: stb. lesz a jó.
 Bezárjuk a lemezkezelőt. Ha jól csináltuk, a Fájlkezelőben is megjelenik az új kötet, új betűjellel.
+Egy tipikus partíciós tábla, ahol a "tartalékként" is használt Windows telepítő ISO az F: meghajtóra van helyezve:
+<img width="697" height="100" alt="{F115E94F-AC73-4425-8B7E-31F0B44B8772}" src="https://github.com/user-attachments/assets/530d2215-8923-4435-90a5-e107e1ed859e" />
 
 ## Windows ISO fájl
 Letöltjük a netről a "telepítőképet", azaz a <tt>Windows ISO</tt> fájlt: a Microsoft https://www.microsoft.com/hu-hu/software-download/windows11 oldaláról , vagy (egyszerűbben) a https://msdl.gravesoft.dev/#3262 címről (ezek szigorú hardverkövetelményű Windows 11 25H2 iso-k).
