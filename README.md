@@ -32,7 +32,7 @@ Letöltjük a netről a "telepítőképet", azaz a <tt>Windows ISO</tt> fájlt:
 - vagy (egyszerűbben) a https://msdl.gravesoft.dev/#3262 címről
 (ezek szigorú hardverkövetelményű Windows 11 25H2 iso-k).
 > [!TIP]
-> ...Letöltünk Windows ISO-t más kedvenc helyünkről (jóval lazább hardverkövetelményekkel), pl.: https://windowsxlite.com/ (kis hátránya, hogy angolul "beszél", de a telepítés után
+> ...Letölthetünk Windows ISO-t más kedvenc helyünkről (jóval lazább hardverkövetelményekkel), pl.: https://windowsxlite.com/ (kis hátránya, hogy angolul "beszél", de a telepítés után
 > magyarítani lehet) vagy https://github.com/mondomata/Windows11Long_Alexa❤️ (utóbbi magyar, nyomkövetőktől és hirdető/reklám progiktól mentes Windows 11!)
   
 > [!WARNING]
