@@ -13,7 +13,7 @@ Ehhez lecsippentünk 1 „keveset” a meglévő lemez tárhelyünkből a gépü
 - Most az új (fekete) **Lefoglalatlan partíció**ra jobb gombos egér klikk, majd a felugró listán *Új, egyszerű kötet* parancsra klikkelj (+ ajánlott NTFS helyett FAT32 fájlrendszerű partíciós tábla beállítása). Végig klikkeljük - tovább, tovább... mindent elfogadva - a particionálási folyamatot, aminek eredményeként kapunk egy új betűjellel ellátott közel 10 GB-os kötetet/meghajtót „Új kötet” néven (ha particionálás közben nem neveztük át). A betűjelet particionálás közben ajánla a Lemezkezelő, általában **D:** a jó, ha nincs több partíció és/vagy CD/DVD lejátszó a gépben<sup>ami általában D:-re van csatolva)</sup>, ha van lejátszó, akkor a soron következő betű, pl. E:, F: stb. lesz a jó.
 Bezárjuk a lemezkezelőt. Ha jól csináltuk, a Fájlkezelőben is megjelenik az új kötet, új betűjellel.
 
-Íme a képen egy tipikus partíciós tábla, ahol a "tartalékként" is használt Windows telepítő ISO az **F:** meghajtóra van helyezve:
+Íme a képen egy tipikus partíciós tábla, ahol a "tartalékként" is használt Windows telepítő ISO az **F:** (wininstall-nak elnevezett) meghajtóra van helyezve:
 
 <br>Lemezkezelő:
 <br>
