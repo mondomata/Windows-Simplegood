@@ -45,7 +45,7 @@ Letöltjük a netről a "telepítőképet", azaz a <tt>Windows ISO</tt> fájlt:
 > bármely, viszonylag régebbi számítógépre is.<br>
 > ![{FFFC60A6-CE5D-4D29-A61A-8DD1B380D479}](https://github.com/user-attachments/assets/45b3486f-9301-40b7-9e64-758661921f1f)
 
-## ISO csatlakoztatási módok
+## ISO kezelés
 2. Az ISO-k tul.képpen spec. csomagolt állományok, amelyek könyvtárakat (mappákat), fájlokat tartalmaznak, megnyitásuk speciális.
 A letöltött Windows.ISO-ra...
 - a Fájkezelőben jobb kattintás, majd ⨀Csatlakoztatás választása:
