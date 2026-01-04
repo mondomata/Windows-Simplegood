@@ -84,15 +84,14 @@ Végeredményként a telepítés után a gép indításakor a régi és az új W
   Ennyi.🙌🙌🙌
 
 > [!TIP]
-> USB tárolós ('pendrájvos') telepítés részletes leírását keresed? Itt van ilyen is: https://github.com/mondomata/Windows11Long_Alexa
+> USB tárolós ('pendrájvos') telepítés részletes leírását keresed? Itt van ilyen is: https://github.com/mondomata/Windows11Long_Alexa. 🥳 Windows aktiválás is van a telepítőben.
    
 > [!IMPORTANT]
 > ☝️☝️☝️<b>Fontos: NE piszkáld sem a Lemezkezelőben, sem a Windows Telepítőben a System (Rendszer) és Recovery (Helyreállítási) partíciót (hagyd úgy, ahogy vannak)!!!</b> Célszerű a
 > fontosabb iratokat, fotókat, stb minden esetben kimenteni egy kártyára, vagy USB tárolóra (pendrájvra), bármilyen Windows telepítéskor! Meglévő Windows felülírásakor elvesznek a
 > Windowsra telepített programok is, de természetesen az új Windowson ezek újra telepíthetők.
  
-+1 🥳 Windows aktiválás is van a fenti Win11Long_Alexa telepítőben.
-Egy step by step Windows 11 telepítés képekben... https://docs.google.com/document/d/12GJzHKCkH1YCkE6JRz90i2aesiUantKvXcLsYUD-QTw/edit?usp=drivesdk
++1 Egy step by step Windows 11 telepítés képekben... https://docs.google.com/document/d/12GJzHKCkH1YCkE6JRz90i2aesiUantKvXcLsYUD-QTw/edit?usp=drivesdk
 
 > [!CAUTION]
 > Minden felelősség kizárva a szerző részéről (a leírtak kipróbáltak, jól működnek, viszont a gépek és emberek közötti különbségek akár kirívók is lehetnek).😁😁😁
