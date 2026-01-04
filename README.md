@@ -6,11 +6,10 @@
 Ehhez lecsippentünk 1 „keveset” a meglévő lemez tárhelyünkből a gépünkön:
 - Egér jobboldali gombbal ( 🖱️<sub>↖️</sub> ) klikk a Windows Start<kbd>![windowsbill](https://github.com/user-attachments/assets/6e47728d-5bf1-45a7-8cf9-5f72a2cb16a9)
 </kbd> tálcaikonon, majd a felugró listán **Lemezkezelés** választása. 
-- A Lemezkezelés ablakban jobbgombos egér klikk a kék **Windows (C:)** kötetre, majd a helyi menüben *Kötet zsugorítása* lehetőség választása.
+- A Lemezkezelés ablakban jobbgombos egér klikk a kék **Windows (C:)** kötetre, majd a helyi menüben *Kötet zsugorítása* lehetőség választása.<br>
    ![{47A9DFF5-E60C-4ECA-94F6-59443057CF51}](https://github.com/user-attachments/assets/88f57747-cd34-4f29-8abd-53538ee28ab2)
-- A felugró ablakban a zsugorítandó méretet beállítjuk 10000 (tízezer) MB-ra (ez kb.9,77 GB)
+- A felugró ablakban a zsugorítandó méretet beállítjuk 10000 (tízezer) MB-ra (ez kb.9,77 GB) majd jóváhagyjuk az új partíció készítést.<br>
    ![{3DEDB19B-E53F-4C3D-9578-5B79537053F4}](https://github.com/user-attachments/assets/2400f183-6a6f-4190-9ea4-ab75882d7ad7)
-majd jóváhagyjuk az új partíció készítést.
 - Most az új (fekete) **Lefoglalatlan partíció**ra jobb gombos egér klikk, majd a felugró listán *Új, egyszerű kötet* parancsra klikkelj (+ ajánlott NTFS helyett FAT32 fájlrendszerű partíciós tábla beállítása). Végig klikkeljük - tovább, tovább... mindent elfogadva - a particionálási folyamatot, aminek eredményeként kapunk egy új betűjellel ellátott közel 10 GB-os kötetet/meghajtót „Új kötet” néven (ha particionálás közben nem neveztük át). A betűjelet particionálás közben ajánla a Lemezkezelő, általában **D:** a jó, ha nincs több partíció és/vagy CD/DVD lejátszó a gépben<sup>ami általában D:-re van csatolva)</sup>, ha van lejátszó, akkor a soron következő betű, pl. E:, F: stb. lesz a jó.
 Bezárjuk a lemezkezelőt. Ha jól csináltuk, a Fájlkezelőben is megjelenik az új kötet, új betűjellel.
 Íme a képen egy tipikus partíciós tábla, ahol a "tartalékként" is használt Windows telepítő ISO az **F:** meghajtóra van helyezve:
