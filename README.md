@@ -78,7 +78,7 @@ Végeredményként a telepítés után a gép indításakor a régi és az új W
 - Válaszd a Windows telepítőben a **Windows** partíciót, majd abból vegyél le **Extend partition** gombbal egy min. 60000 MB-os újabb, "üres" partíciót. *Erre az üres partícióra kattintva kezdd meg a telepítést*...
    <sup>Ennek a megoldásnak később 2 folytatása is lehet: attól függően, h a használat alapján melyik tetszik jobban, a megtartani kívánt Windows Lemezkezelőjében törölheted a másik (inaktív) Windowsnak a partícióját, így automatikusan újra 1 Windows-os géped lesz.</sup>
 > [!TIP]
-> *Ha nem szeretnél a telepítés közben bajlódni az új, második Windows partícióval, a fentebb 1. pont szerint eljárva készíts még a telepítés megkezdése előtt egy min.60000 (hatvanezer) > MB-os, NTFS partíciót!*
+> *Ha nem szeretnél a telepítés közben bajlódni az új, második Windows partícióval, a fentebb 1. pont szerint eljárva készíts még a telepítés megkezdése előtt egy min.60000 (hatvanezer)MB-os, NTFS partíciót!*
 
   Ennyi.🙌🙌🙌
 
