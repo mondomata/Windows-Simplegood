@@ -17,14 +17,14 @@ Ehhez lecsippentünk 1 „keveset” a meglévő lemez tárhelyünkből a gépü
 
 > [!NOTE]
 > Íme a képen egy tipikus partíciós tábla, ahol a "tartalékként" is használt Windows telepítő ISO tartalma az **F:** (wininstall-nak elnevezett) partícióra/meghajtóra van helyezve:
-<br>Lemezkezelő:
-<br>
-<img width="700" height="100" alt="{F115E94F-AC73-4425-8B7E-31F0B44B8772}" src="https://github.com/user-attachments/assets/530d2215-8923-4435-90a5-e107e1ed859e" />
-<br>
-Fájlkezelő:
-<br>
-<img width="700" height="100" alt="{433B15AD-6701-4749-B84E-929F7C2D5A9B}" src="https://github.com/user-attachments/assets/2a631adf-44fb-4baa-bcd7-c07ad0c8bf31" />
->
+> <br>Lemezkezelő:
+><br>
+><img width="700" height="100" alt="{F115E94F-AC73-4425-8B7E-31F0B44B8772}" src="https://github.com/user-attachments/assets/530d2215-8923-4435-90a5-e107e1ed859e" />
+><br>
+>Fájlkezelő:
+><br>
+><img width="700" height="100" alt="{433B15AD-6701-4749-B84E-929F7C2D5A9B}" src="https://github.com/user-attachments/assets/2a631adf-44fb-4baa-bcd7-c07ad0c8bf31" />
+
 
 ## Windows ISO fájl
 Letöltjük a netről a "telepítőképet", azaz a <tt>Windows ISO</tt> fájlt: 
