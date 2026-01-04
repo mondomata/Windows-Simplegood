@@ -30,10 +30,12 @@ Ehhez lecsippentünk 1 „keveset” a meglévő lemez tárhelyünkből a gépü
 Letöltjük a netről a "telepítőképet", azaz a <tt>Windows ISO</tt> fájlt: 
 - a Microsoft https://www.microsoft.com/hu-hu/software-download/windows11 oldaláról,
 - vagy (egyszerűbben) a https://msdl.gravesoft.dev/#3262 címről
-(ezek szigorú hardverkövetelményű Windows 11 25H2 iso-k).
+(ezek szigorú hardverkövetelményű Windows 11 25H2 iso-k). 
 > [!TIP]
-> ...Letölthetünk Windows ISO-t más kedvenc helyünkről (jóval lazább hardverkövetelményekkel), pl.: https://windowsxlite.com/ (kis hátránya, hogy angolul "beszél", de a telepítés után
-> magyarítani lehet) vagy https://github.com/mondomata/Windows11Long_Alexa❤️ (utóbbi magyar, nyomkövetőktől és hirdető/reklám progiktól mentes Windows 11!)
+> ...Letölthetünk Windows ISO-t más kedvenc helyünkről (jóval lazább hardverkövetelményekkel), pl.: https://windowsxlite.com/ (kis
+> hátránya, hogy angolul "beszél", de a telepítés után
+> magyarítani lehet) vagy https://github.com/mondomata/Windows11Long_Alexa❤️ (utóbbi magyar, nyomkövetőktől és hirdető/reklám progiktól
+> mentes Windows 11!)
   
 > [!WARNING]
 > ☝️Figyelmeztetés: a **MS eredeti Windows 11** ISO-k (kivéve az Enterprise👌) csak a MS szerinti hardverkövetelményeknek, úgymint: secureboot, TPM2, minimum 4 GB RAM, 2019. után
@@ -56,17 +58,18 @@ A letöltött Windows.ISO-ra...
 - az eredeti MS Windows.iso állományok kivétel nélkül tartalmazzák a fotón látható mappákat és fájlokat (méretek változók + egyéb is lehet),
 - egyes telepítőknél - pl. Windows X-Lite - viszont nincs support mappa, illetve a telepítés indító **setup.exe a sources mappában** van.
 
-4. A telepítőben a legfontosabb, kritikus teendő: az *új Windows partícióját kell kijelölni*.
+4. A telepítőben kritikus teendő: az *új Windows partíciójának kijelölése*.
    2 alapvető lehetőség van attól függően, hogy
-   - a meglévő helyére, a „régi” Windows törlésével (tiszta telepítéssel) akarjuk-e telepíteni (lásd 5.),
+   - a meglévő helyére, a „régi” Windows törlésével (tiszta új Windows telepítéssel) akarjuk-e telepíteni (lásd 5.),
    - VAGY az eredeti Windows megtartása mellett egy második Windowst akarunk (lásd 6.).
 
  ## "Tiszta" Új Windows <sup>haladóknak</sup>
 5. **Felülírható a meglévő Windows így ("tiszta" telepítés!)**:
 - készíts a Windows Partíciókezelővel (1.pont) egy új, kb. 10GB-os  FAT32 fájlrendszerű partíciót a lemezeden, adj neki **F:** betűjelet.  Csatold a fájlkezelőn a nevére kattintva (2.pont) a telepítő ISO-t (D: , vagy G: vagy hasonló meghajtón fog megnyílni), az ISO-ból másold az összes mappát és fájlt az új, **F:** betűjelű üres partícióra.
-- **Windows Helyreállítási Módban újraindulás** után (ezt a módot a Tálca/Start menüben a <kbd>Shift</kbd>-et nyomva tartva a <kbd>(|)</kbd>*Kikapcsolás*/*Újraindítás*-ra kattintva lehet elindítani, vagy *Powershell* programban a **shutdown /r /o** begépelésével és <kbd>[Enter]</kbd>-rel),
-- a megjelenő spec. menüben (világoskék csempék) válaszd sorrendben a *Hibaelhárítás -> Speciális lehetőségek -> Parancssor* lehetőséget. (Win 10-nél a Parancssor /Command Prompt/ elérése eltérő lehet.) Gépeld be: **F:\setup** és <kbd>[Enter]</kbd>-rel indíthatod a Windows telepítőt.
-- A Windows telepítés ablakban a meglévő **C:** Windows partíciót válaszd (ha inaktív marad a telepítő gomb, töröld ezt a partíciót a Törlés/Delete gombbal, és így az új üres partícióra telepíthetsz), a Telepítés gombbal a régi Windowst az új Windows felülírja (**mindent töröl!!!**).
+- **Windows Helyreállítási Módban újraindítás**: ezt a módot a Tálca/Start menüben a <kbd>Shift</kbd>-et nyomva tartva a <kbd>(|)</kbd>*Kikapcsolás*/*Újraindítás*-ra kattintva lehet elindítani, vagy a Windows *Powershell (Win10=Terminál)* programban a **shutdown /r /o** begépelésével és <kbd>[Enter]</kbd>-rel,
+- a megjelenő spec. menüben (világoskék csempék) válaszd sorrendben a *Hibaelhárítás -> Speciális lehetőségek -> Parancssor* lehetőséget. (Win 10-nél a Parancssor /Command Prompt/ elérése eltérő lehet.)
+- Gépeld be a Parancssorba (CMD): **F:\setup** és <kbd>[Enter]</kbd>-rel indíthatod a Windows telepítőt.
+- A Windows telepítés ablakban a meglévő **C: Windows** partíciót válaszd (ha inaktív marad a telepítő gomb, töröld ezt a partíciót a Törlés/Delete gombbal, és így az új üres partícióra telepíthetsz), a Telepítés gombbal a régi Windowst az új Windows felülírja (**mindent töröl!!!**).
 - ^_^  Ha hibát jelez a Parancssor (nem indul a telepítő), egyszerűen ismételd meg a parancs kiadását így: <tt>D:\setup</tt> <kbd>[Enter]</kbd> vagy <tt>G:\setup</tt> <kbd>[Enter]</kbd>, stb. (abc betűivel) amíg rátalálva a helyes betűjelre elindul a telepítő. Windows 10-en meglehet, hogy az iso-t a fájlkezelő nem tudja megnyitni, ilyenkor töltsd le és használd pl. a **7zip** programot: https://www.7-zip.org/
 
 ## 2 Windows (dual boot)
