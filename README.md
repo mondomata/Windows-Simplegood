@@ -1,5 +1,5 @@
 # 🪟Windows-Simplegood 👌👍🙌
-**Windows-Szimplajó telepítés beépített HDD/SSD lemezről: nem csak egyszerűbb így, de sokkal gyorsabb is a telepítés menete és nem igényli a Windows ISO média fájl gyakori szokás szerinti kiírását külső programmal, mint pl. Rufus, vagy Media Creation Tool...<sup>'Csak' meglévő Windows kell hozzá😬</sup>)**
+**Windows-Szimplajó telepítés beépített HDD/SSD lemezről: USB nélkül egyszerűbb, sokkal gyorsabb a Windows telepítés és nem igényli a Windows ISO média fájl gyakori szokás szerinti kiírását külső programmal, mint pl. Rufus, vagy Media Creation Tool...<sup>'Csak' meglévő Windows kell hozzá😬</sup>)**
 
 ## Telepítő Partíció <sup>USB adathordozó helyett</sup>
 1. Adathordozó (pl. USB) használata helyett a gépünk lemezén (ez a tároló általában jóval gyorsabb, mint az USB) készítünk és használunk Windows telepítőt.
