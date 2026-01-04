@@ -84,7 +84,7 @@ Végeredményként a telepítés után a gép indításakor a régi és az új W
   Ennyi.🙌🙌🙌
 
 > [!TIP]
-> USB tárolós ('pendrájvos') telepítés részletes leírását keresed? Itt van ilyen is: https://github.com/mondomata/Windows11Long_Alexa?tab=readme-ov-file#%EF%B8%8Ftelep%C3%ADt%C3%A9si-adathordoz%C3%B3-k%C3%A9sz%C3%ADt%C3%A9se-windows-on 🥳 Windows aktiválás is van a telepítőben.
+> USB tárolós ('pendrájvos') telepítés részletes leírását keresed? <a href=https://github.com/mondomata/Windows11Long_Alexa?tab=readme-ov-file#%EF%B8%8Ftelep%C3%ADt%C3%A9si-adathordoz%C3%B3-k%C3%A9sz%C3%ADt%C3%A9se-windows-on>Itt van ilyen is!</a> 🥳 Windows aktiválás is van a telepítőben.
    
 > [!IMPORTANT]
 > ☝️☝️☝️<b>Fontos: NE piszkáld sem a Lemezkezelőben, sem a Windows Telepítőben a System (Rendszer) és Recovery (Helyreállítási) partíciót (hagyd úgy, ahogy vannak)!!!</b> Célszerű a
