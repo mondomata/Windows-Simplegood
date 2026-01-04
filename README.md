@@ -45,7 +45,7 @@ A letöltött Windows.ISO-ra...
 
  ## "Tiszta" Új Windows <sup>haladóknak</sup>
 5. **Felülírható a meglévő Windows így ("tiszta" telepítés!)**:
-- készíts a Windows Partíciókezelővel (1.pont) egy új, kb. 10GB-os  FAT partíciót a lemezeden, adj neki **F:** betűjelet.  Csatold a fájlkezelőn a nevére kattintva (2.pont) a telepítő ISO-t (D: , vagy G: vagy hasonló meghajtón fog megnyílni), az ISO-ból másold az összes mappát és fájlt az új, **F:** betűjelű üres partícióra.
+- készíts a Windows Partíciókezelővel (1.pont) egy új, kb. 10GB-os  FAT32 fájlrendszerű partíciót a lemezeden, adj neki **F:** betűjelet.  Csatold a fájlkezelőn a nevére kattintva (2.pont) a telepítő ISO-t (D: , vagy G: vagy hasonló meghajtón fog megnyílni), az ISO-ból másold az összes mappát és fájlt az új, **F:** betűjelű üres partícióra.
 - **Windows Helyreállítási Módban újraindulás** után (ezt a módot a Tálca/Start menüben a <kbd>Shift</kbd>-et nyomva tartva a <kbd>(|)</kbd>*Kikapcsolás*/*Újraindítás*-ra kattintva lehet elindítani, vagy *Powershell* programban a **shutdown /r /o** begépelésével és <kbd>[Enter]</kbd>-rel),
 - a megjelenő spec. menüben (világoskék csempék) válaszd sorrendben a *Hibaelhárítás -> Speciális lehetőségek -> Parancssor* lehetőséget. (Win 10-nél a Parancssor /Command Prompt/ elérése eltérő lehet.) Gépeld be: **F:\setup** és <kbd>[Enter]</kbd>-rel indíthatod a Windows telepítőt.
 - A Windows telepítés ablakban a meglévő **C:** Windows partíciót válaszd (ha inaktív marad a telepítő gomb, töröld ezt a partíciót a Törlés/Delete gombbal, és így az új üres partícióra telepíthetsz), a Telepítés gombbal a régi Windowst az új Windows felülírja (**mindent töröl!!!**).
