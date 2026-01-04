@@ -91,7 +91,7 @@ Végeredményként a telepítés után a gép indításakor a régi és az új W
 > fontosabb iratokat, fotókat, stb minden esetben kimenteni egy kártyára, vagy USB tárolóra (pendrájvra), bármilyen Windows telepítéskor! Meglévő Windows felülírásakor elvesznek a
 > Windowsra telepített programok is, de természetesen az új Windowson ezek újra telepíthetők.
  
-+1 Egy step by step Windows 11 telepítés képekben... https://docs.google.com/document/d/12GJzHKCkH1YCkE6JRz90i2aesiUantKvXcLsYUD-QTw/edit?usp=drivesdk
++1 Egy másik <A href="https://docs.google.com/document/d/12GJzHKCkH1YCkE6JRz90i2aesiUantKvXcLsYUD-QTw/edit?usp=drivesdk">step by step Windows 11 telepítés képekben...</a>
 
 > [!CAUTION]
 > Minden felelősség kizárva a szerző részéről (a leírtak kipróbáltak, jól működnek, viszont a gépek és emberek közötti különbségek akár kirívók is lehetnek).😁😁😁
