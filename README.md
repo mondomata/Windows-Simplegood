@@ -62,7 +62,7 @@ Végeredményként a telepítés után a gép indításakor a régi és az új W
   Ennyi.🙌🙌🙌
 
    
-> [!IMORTANT]
+> [!IMPORTANT]
 > ☝️☝️☝️<b>Fontos: NE piszkáld sem a Lemezkezelőben, sem a Windows Telepítőben a System (Rendszer) és Recovery (Helyreállítási) partíciót (hagyd úgy, ahogy vannak)!!!</b> Célszerű a
 > fontosabb iratokat, fotókat, stb minden esetben kimenteni egy kártyára, vagy USB tárolóra (pendrájvra), bármilyen Windows telepítéskor! Meglévő Windows felülírásakor elvesznek a
 > Windowsra telepített programok is, de természetesen az új Windowson ezek újra telepíthetők.
