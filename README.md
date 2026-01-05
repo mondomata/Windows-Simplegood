@@ -33,13 +33,10 @@ Ehhez lecsippentünk 1 „keveset” a meglévő lemez tárhelyünkből a gépü
 Letöltjük a netről a "telepítőképet", azaz a <tt>Windows ISO</tt> fájlt: 
 - a Microsoft https://www.microsoft.com/hu-hu/software-download/windows11 oldaláról,
 - vagy (egyszerűbben) a https://msdl.gravesoft.dev/#3262 címről
-<br>😒 ...ezek szigorú hardverkövetelményű Windows 11 25H2 iso-k. 
-> [!TIP]
-> ...Letölthetünk Windows ISO-t más kedvenc helyünkről (jóval lazább hardverkövetelményekkel), pl.: https://windowsxlite.com/  (kis hátránya, hogy angolul "beszél", de a telepítés után magyarítani lehet) vagy https://github.com/mondomata/Windows11Long_Alexa ❤️
-> (utóbbi magyar, nyomkövetőktől és hirdető/reklám progiktól mentes Windows 11!)
-  
+<br>😒 ...ezek szigorú hardverkövetelményű Windows 11 25H2 iso-k.
+
 > [!WARNING]
-> <sup>☝️Figyelmeztetés: a **MS eredeti Windows 11** ISO-k (kivéve az Enterprise👌) csak a MS szerinti hardverkövetelményeknek, úgymint: secureboot, TPM2, minimum 4 GB RAM, 2019. után
+> <sup>☝️ A **MS eredeti Windows 11** ISO-k (kivéve az Enterprise👌) csak a MS szerinti hardverkövetelményeknek, úgymint: secureboot, TPM2, minimum 4 GB RAM, 2019. után
 > gyártott intel proci, vagy Win11 által támogatott Ryzen, stb. megfelelő gépre telepíthetők ezzel a módszerrel, járj utána a neten, ha nem tudod, mi az. 
 > Az egyik kritikus hardver a TPM2 biztonsági eszköz; jobb klikk a Startmenün, futtatás: **tpm.msc** begépelésére és <kbd>Enter</kbd>-re
 > felugró ablakban részletes tájékoztatás jelenik meg a saját géped TPM eszközéről (ha 2-nél alacsonyabb spec.verziós, NEM lehet a gépedre eredeti MS Windows 11-et telepíteni  ((┬┬﹏┬┬)). 
@@ -47,6 +44,10 @@ Letöltjük a netről a "telepítőképet", azaz a <tt>Windows ISO</tt> fájlt:
 > bármely, viszonylag régebbi számítógépre is.</sup><br>
 > ![{FFFC60A6-CE5D-4D29-A61A-8DD1B380D479}](https://github.com/user-attachments/assets/45b3486f-9301-40b7-9e64-758661921f1f)
 
+> [!TIP]
+> ...Letölthetünk Windows ISO-t más kedvenc helyünkről (jóval lazább hardverkövetelményekkel), pl.: https://windowsxlite.com/  (kis hátránya, hogy angolul "beszél", de a telepítés után magyarítani lehet) vagy https://github.com/mondomata/Windows11Long_Alexa ❤️
+> (utóbbi magyar, nyomkövetőktől és hirdető/reklám progiktól mentes Windows 11!)
+  
 ## ISO kezelés
 2. Az ISO tul.képpen spec. csomagolt állomány, amely könyvtárakat (mappákat), fájlokat tartalmaz, megnyitása is speciális.
 A letöltött Windows.ISO-ra...
