@@ -30,7 +30,7 @@ Ehhez lecsippentünk 1 „keveset” a meglévő lemez tárhelyünkből a gépü
 
 
 ## Windows ISO fájl
-Letöltjük a netről a telepítő "lemezképet", azaz a <tt>Windows ISO</tt> fájlt: 
+**Letöltjük** a netről a telepítő **lemezképet**, azaz a <tt>Windows ISO</tt> fájlt: 
 - a Microsoft https://www.microsoft.com/hu-hu/software-download/windows11 oldaláról,
 - vagy (egyszerűbben) a https://msdl.gravesoft.dev/#3262 címről
 <br>😒 ...ezek szigorú hardverkövetelményű Windows 11 25H2 iso-k.
@@ -40,7 +40,7 @@ Letöltjük a netről a telepítő "lemezképet", azaz a <tt>Windows ISO</tt> f�
 > gyártott intel proci, vagy Win11 által támogatott Ryzen, stb. megfelelő gépre telepíthetők eredetiben, járj utána a neten, ha nem tudod, mi az. 
 > Az egyik kritikus hardver a TPM2 biztonsági eszköz; jobb klikk a Startmenün, futtatás: **tpm.msc** begépelésére és <kbd>Enter</kbd>-re
 > felugró ablakban részletes tájékoztatás jelenik meg a saját géped TPM eszközéről (ha 2-nél alacsonyabb spec.verziós, NEM lehet a gépedre eredeti MS Windows 11-et telepíteni  ((┬┬﹏┬┬)). 
-> A Windows X-Lite vagy a ❤️ Win11Long_Alexa ISO-kban ki van kapcsolva a TPM2 ellenőr, tehát akadálytalanul települhet szinte
+> Pl. a Windows X-Lite vagy a ❤️ Win11Long_Alexa ISO-kban ki van kapcsolva a TPM2 ellenőr, tehát akadálytalanul települhet szinte
 > bármely, viszonylag régebbi számítógépre is.</sup><br>
 > ![{FFFC60A6-CE5D-4D29-A61A-8DD1B380D479}](https://github.com/user-attachments/assets/45b3486f-9301-40b7-9e64-758661921f1f)
 
