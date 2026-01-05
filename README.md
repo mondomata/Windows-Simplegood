@@ -30,7 +30,7 @@ Ehhez lecsippentünk 1 „keveset” a meglévő lemez tárhelyünkből a gépü
 
 
 ## Windows ISO fájl
-Letöltjük a netről a "telepítőképet", azaz a <tt>Windows ISO</tt> fájlt: 
+Letöltjük a netről a telepítő "lemezképet", azaz a <tt>Windows ISO</tt> fájlt: 
 - a Microsoft https://www.microsoft.com/hu-hu/software-download/windows11 oldaláról,
 - vagy (egyszerűbben) a https://msdl.gravesoft.dev/#3262 címről
 <br>😒 ...ezek szigorú hardverkövetelményű Windows 11 25H2 iso-k.
