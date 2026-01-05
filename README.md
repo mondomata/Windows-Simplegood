@@ -37,7 +37,7 @@ Letöltjük a netről a "telepítőképet", azaz a <tt>Windows ISO</tt> fájlt:
 
 > [!WARNING]
 > <sup>☝️ A **MS eredeti Windows 11** ISO-k (kivéve az Enterprise👌) csak a MS szerinti hardverkövetelményeknek, úgymint: secureboot, TPM2, minimum 4 GB RAM, 2019. után
-> gyártott intel proci, vagy Win11 által támogatott Ryzen, stb. megfelelő gépre telepíthetők ezzel a módszerrel, járj utána a neten, ha nem tudod, mi az. 
+> gyártott intel proci, vagy Win11 által támogatott Ryzen, stb. megfelelő gépre telepíthetők eredetiben, járj utána a neten, ha nem tudod, mi az. 
 > Az egyik kritikus hardver a TPM2 biztonsági eszköz; jobb klikk a Startmenün, futtatás: **tpm.msc** begépelésére és <kbd>Enter</kbd>-re
 > felugró ablakban részletes tájékoztatás jelenik meg a saját géped TPM eszközéről (ha 2-nél alacsonyabb spec.verziós, NEM lehet a gépedre eredeti MS Windows 11-et telepíteni  ((┬┬﹏┬┬)). 
 > A Windows X-Lite vagy a ❤️ Win11Long_Alexa ISO-kban ki van kapcsolva a TPM2 ellenőr, tehát akadálytalanul települhet szinte
