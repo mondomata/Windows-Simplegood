@@ -6,7 +6,7 @@
 
 > [!NOTE]
 > Óriási erő kell 1 Windowst elrontani...igazából a nagyon gyengének sikerülhet. Annak is itt van ez!🥳🥳🥳
-> 
+ 
 ## Telepítő Partíció <sup>USB adathordozó helyett</sup>
 1. Adathordozó (pl. USB) használata helyett a gépünk lemezén (ez a tároló általában jóval gyorsabb, mint az USB) készítünk és használunk Windows telepítőt.
 Ehhez lecsippentünk 1 „keveset” a meglévő lemez tárhelyünkből a gépünkön:
@@ -71,7 +71,7 @@ A letöltött Windows.ISO-ra...
 - **Windows Helyreállítási Újraindítás**: ezt a Tálca Start (ikon)-ra kattintva a <kbd>Shift</kbd> billentyű nyomva tartása közben pedig a <kbd>(|)</kbd>*Kikapcsolás*/**Újraindítás**-ra kattintva lehet elindítani. Másik mód: a Windows *Powershell (vagy Terminál)* programban a **shutdown /r /o** begépelésével és <kbd>[Enter]</kbd>-rel, (kb.1perc...)
 - a **helyreállító menüben** (világoskék csempék) válaszd sorrendben a *Hibaelhárítás -> Speciális lehetőségek -> Parancssor* lehetőséget. (Win 10-nél a Parancssor /Command Prompt/ elérése más is lehet e menüben.)
 - Gépeld be a **Parancssor**ba, ahol látod majd az <tt> X:\Windows\System32> </tt>szöveget, hogy **F:\setup** és <kbd>[Enter]</kbd>-rel indíthatod a Windows telepítőt. 😬 Ha nem indul a telepítő (nem történik az <kbd>[Enter]</kbd>-re semmi<sup>(hajlamos a Windows 'megkeverni' ilyenkor a meghajtókat)</sup>, egyszerűen ismételd meg a parancs kiadását így: **D:\setup** <kbd>[Enter]</kbd> vagy **E:\setup** <kbd>[Enter]</kbd>, stb. (**G H I**... betűvel) amíg rátalálva a helyes betűjelre azonnal elindul a telepítő.😁 
-- A Windows telepítés ablakban a meglévő **0.lemez -Windows** partíciót válaszd. A Telepítés gombbal a régi Windowst az új Windows felülírja (**🧨MINDENT TÖRÖL!🧼 💡Tiszta telepítés lehetséges úgy is, hogy telepítés megkezdése előtt egy elkülönített partícióra tárolod fontos adataid /képek, videók, stb./, és a Telepítőben csak a "Windows" partíciót törlöd/írod felül /ez a telepítőben általában "0.lemez - Wndows" néven látszik/, az "adat" partíció tartalmával együtt megmarad! Nagyon ajánlott megoldás lehet nagyobb kapacitású lemezhez...**). 
+- A Windows telepítés ablakban a meglévő **0.lemez -Windows** partíciót válaszd. A Telepítés gombbal a régi Windowst az új Windows felülírja (**🧨MINDENT TÖRÖL!🧼 💡Tiszta telepítés lehetséges úgy is, hogy telepítés megkezdése előtt egy elkülönített partícióra tárolod fontos adataid /képek, videók, stb./, és a Telepítőben csak a "Windows" partíciót törlöd/írod felül, az "adat" partíció tartalmával együtt kezelhető marad az új Windows-zal! Nagyon ajánlott megoldás ez a nagyobb kapacitású - pl. 512 GB - lemezhez...**). 
 
 ## 2 Windows (dual boot)
 6. **Két Windows 1 gépen: Régi és Új** (bárkinek ajánlott, nincs kockázata).
