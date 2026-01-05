@@ -65,13 +65,13 @@ A letöltött Windows.ISO-ra...
    - a meglévő helyére, a „régi” Windows törlésével (tiszta új Windows telepítéssel) akarjuk-e telepíteni (lásd 5.),
    - VAGY az eredeti Windows megtartása mellett egy második Windowst akarunk (lásd 6.).
 
- ## "Tiszta" Új Windows <sup>haladóknak</sup>
-5. **Felülírható a meglévő Windows így ("tiszta" telepítés!)**:
+ ## 'Tiszta' Új Windows <sup>haladóknak</sup>
+5. **Felülírható a meglévő Windows így ('tiszta' telepítéssel!)**:
 - **készíts a Windows Partíciókezelő**vel (1.pont) egy új, kb. 10GB-os  FAT32 fájlrendszerű partíciót a lemezeden, adj neki **F:** betűjelet.  Csatold a fájlkezelőn a nevére kattintva (2.pont) a telepítő ISO-t (D: , vagy G: vagy hasonló meghajtón fog megnyílni), az ISO-ból másold az összes mappát és fájlt az új, **F:** betűjelű üres partícióra.
 - **Windows Helyreállítási Újraindítás**: ezt a Tálca Start (ikon)-ra kattintva a <kbd>Shift</kbd> billentyű nyomva tartása közben pedig a <kbd>(|)</kbd>*Kikapcsolás*/**Újraindítás**-ra kattintva lehet elindítani. Másik mód: a Windows *Powershell (vagy Terminál)* programban a **shutdown /r /o** begépelésével és <kbd>[Enter]</kbd>-rel, (kb.1perc...)
 - a **helyreállító menüben** (világoskék csempék) válaszd sorrendben a *Hibaelhárítás -> Speciális lehetőségek -> Parancssor* lehetőséget. (Win 10-nél a Parancssor /Command Prompt/ elérése más is lehet e menüben.)
 - Gépeld be a **Parancssor**ba, ahol látod majd az <tt> X:\Windows\System32> </tt>szöveget, hogy **F:\setup** és <kbd>[Enter]</kbd>-rel indíthatod a Windows telepítőt. 😬 Ha nem indul a telepítő (nem történik az <kbd>[Enter]</kbd>-re semmi<sup>(hajlamos a Windows 'megkeverni' ilyenkor a meghajtókat)</sup>, egyszerűen ismételd meg a parancs kiadását így: **D:\setup** <kbd>[Enter]</kbd> vagy **E:\setup** <kbd>[Enter]</kbd>, stb. (**G H I**... betűvel) amíg rátalálva a helyes betűjelre azonnal elindul a telepítő.😁 
-- A Windows telepítés ablakban a meglévő **0.lemez -Windows** partíciót válaszd. A Telepítés gombbal a régi Windowst az új Windows felülírja (**mindent töröl!🧼**).
+- A Windows telepítés ablakban a meglévő **0.lemez -Windows** partíciót válaszd. A Telepítés gombbal a régi Windowst az új Windows felülírja (**🧨MINDENT TÖRÖL!🧼 💡Tiszta telepítés lehetséges úgy is, hogy telepítés megkezdése előtt egy elkülönített partícióra tárolod fontos adataid /képek, videók, stb./, és a Telepítőben csak a "Windows" partíciót törlöd/írod felül /ez a telepítőben általában "0.lemez - Wndows" néven látszik/, az "adat" partíció tartalmával együtt megmarad! Nagyon ajánlott megoldás lehet nagyobb kapacitású lemezhez...**). 
 
 ## 2 Windows (dual boot)
 6. **Két Windows 1 gépen: Régi és Új** (bárkinek ajánlott, nincs kockázata).
