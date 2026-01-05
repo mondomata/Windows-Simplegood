@@ -36,7 +36,7 @@ Ehhez lecsippentünk 1 „keveset” a meglévő lemez tárhelyünkből a gépü
 <br>😒 ...ezek szigorú hardverkövetelményű Windows 11 25H2 iso-k.
 
 > [!WARNING]
-> <sup>☝️ A **MS eredeti Windows 11** ISO-k (kivéve az Enterprise👌) csak a MS szerinti hardverkövetelményeknek, úgymint: secureboot, TPM2, minimum 4 GB RAM, 2019. után
+> <sup>☝️ A **MS eredeti Windows 11** ISO-k (kivéve az Enterprise👌) csak a MS szerinti hardverkövetelményeknek, úgymint: secureboot, TPM2, minimum 4 GB RAM, 2009. után
 > gyártott intel proci, vagy Win11 által támogatott Ryzen, stb. megfelelő gépre telepíthetők eredetiben, járj utána a neten, ha nem tudod, mi az. 
 > Az egyik kritikus hardver a TPM2 biztonsági eszköz; jobb klikk a Startmenün, futtatás: **tpm.msc** begépelésére és <kbd>Enter</kbd>-re
 > felugró ablakban részletes tájékoztatás jelenik meg a saját géped TPM eszközéről (ha 2-nél alacsonyabb spec.verziós, NEM lehet a gépedre eredeti MS Windows 11-et telepíteni  ((┬┬﹏┬┬)). 
