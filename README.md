@@ -1,7 +1,7 @@
 # 👑🪟Windows-Simplegood 👌👍🙌
 > [!TIP]
 > **Windows-Szimplajó telepítés beépített HDD/SSD lemezen: USB eszköz nélkül egyszerűbb, sokkal gyorsabb a Windows telepítés és nem igényli a Windows ISO fájl gyakori szokás szerinti
-> kiírását külső programmal, mint pl. Rufus, vagy Media Creation Tool...
+> kiírását külső programmal, mint pl. Rufus, vagy Media Creation Tool, magyarul nem kell telepítő média...
 > <br><sup>'Csak' meglévő Windows kell hozzá😬</sup>**
 
 > [!NOTE]
@@ -61,10 +61,11 @@ A letöltött Windows.ISO-ra...
 - az eredeti MS Windows.iso állományok kivétel nélkül tartalmazzák a fotón látható mappákat és fájlokat (méretek változók + egyéb is lehet),
 - egyes telepítőknél - pl. Windows X-Lite - viszont nincs support mappa, illetve a telepítés indító **setup.exe a sources mappában** van.
 
-4. A telepítőben kritikus teendő: az *új Windows partíciójának kijelölése*.
+4. A telepítő program felületen kritikus teendő az *új Windows partíciójának kijelölése*.
    2 alapvető lehetőség van attól függően, hogy
    - a meglévő helyére, a „régi” Windows törlésével (tiszta új Windows telepítéssel) akarjuk-e telepíteni (lásd 5.),
-   - VAGY az eredeti Windows megtartása mellett egy második Windowst akarunk (lásd 6.).
+   VAGY
+   - az eredeti Windows megtartása mellett egy második Windowst akarunk (lásd 6.).
 
  ## 'Tiszta' Új Windows <sup>haladóknak</sup>
 5. **Felülírható a meglévő Windows így ('tiszta' telepítéssel!)**:
