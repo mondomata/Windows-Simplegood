@@ -1,6 +1,6 @@
 # 👑🪟Windows-Simplegood 👌👍🙌
 > [!TIP]
-> **Windows-Szimplajó telepítés beépített HDD/SSD lemezen: USB eszköz nélkül egyszerűbb, sokkal gyorsabb a Windows telepítés és nem igényli a Windows ISO média fájl gyakori szokás szerinti
+> **Windows-Szimplajó telepítés beépített HDD/SSD lemezen: USB eszköz nélkül egyszerűbb, sokkal gyorsabb a Windows telepítés és nem igényli a Windows ISO fájl gyakori szokás szerinti
 > kiírását külső programmal, mint pl. Rufus, vagy Media Creation Tool...
 > <br><sup>'Csak' meglévő Windows kell hozzá😬</sup>**
 
