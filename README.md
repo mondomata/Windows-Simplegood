@@ -75,10 +75,10 @@ A letöltött Windows.ISO-ra...
 - Gépeld be a **Parancssor**ba, ahol látod majd az <tt> X:\Windows\System32> </tt>szöveget, hogy **F:\setup** és <kbd>[Enter]</kbd>-rel indíthatod a Windows telepítőt. 😬 Ha nem indul a telepítő (nem történik az <kbd>[Enter]</kbd>-re semmi<sup>(hajlamos a Windows 'megkeverni' ilyenkor a meghajtókat)</sup>, egyszerűen ismételd meg a parancs kiadását így: **D:\setup** <kbd>[Enter]</kbd> vagy **E:\setup** <kbd>[Enter]</kbd>, stb. (**G H I**... betűvel) amíg rátalálva a helyes betűjelre azonnal elindul a telepítő.😁 
 - A Windows telepítő programban a meglévő **0.lemez - Windows** partíciót válaszd. A **<kbd>[Telepítés]</kbd>** gombra kattintva megkezdődik a folyamat (visszavonhatatlan), a régi Windowst az új Windows felülírja (**🧨MINDENT TÖRÖL: személyes fájlok, programok, beállítások, stb!🧼**)
  > [!TIP]
-> 💡**Windows tiszta telepítés lehetséges úgy is, hogy a megkezdése előtt egy másik - pl. százezer MB-os, azaz kb.100 GB-os Adat (D:) - partícióra másolod fontos fájlaid /doksik, képek, videók, bármi/.
+> 💡Windows tiszta telepítés lehetséges úgy is, hogy a megkezdése előtt egy másik - pl. százezer MB-os, azaz kb.100 GB-os Adat (D:) - partícióra másolod fontos fájlaid /doksik, képek, videók, bármi/.
 > <sup>Ezt a partíciót is az 1.pontban írt leírás szerint készítsd el.</sup>
 > A Telepítőben csak a "Windows" (C:) partíciót törlöd/írod felül, az "Adat" (D:) partíciót nem változtatod meg, az tartalmával együtt kezelhető marad az új Windows-zal (azonnal használható lesz a tartalma telepítés után)! Nagyon praktikus megoldás ez a nagyobb
-> kapacitású - pl. 512 GB - lemezhez... Lényegesen kevésbé kockázatos a tiszta telepítés, mivel nem az egész lemezt, hanem csak a Windows partíciót írja felül a telepítő.**. 
+> kapacitású - pl. 512 GB - lemezhez... Lényegesen kevésbé kockázatos a tiszta telepítés, mivel nem az egész lemezt, hanem csak a Windows partíciót írja felül a telepítő. 
 
 ## Két (2) Windows (dual boot)
 6. **Két Windows 1 gépen: Régi és Új** (bárkinek ajánlott, nincs kockázata).
