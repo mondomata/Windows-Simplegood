@@ -73,11 +73,12 @@ A letöltött Windows.ISO-ra...
 - **Windows Helyreállítási Újraindítás**: ezt a Tálca Start (ikon)-ra kattintva a <kbd>Shift</kbd> billentyű nyomva tartása közben pedig a <kbd>(|)</kbd>*Főkapcsoló* **Újraindítás**-ra kattintva lehet elindítani. Másik mód: a Windows *Powershell (vagy Terminál)* programban a **shutdown /r /o** begépelésével és <kbd>[Enter]</kbd>-rel, (kb.1perc...)
 - a **helyreállító menüben** (világoskék csempék) válaszd sorrendben a *Hibaelhárítás -> Speciális lehetőségek -> Parancssor* lehetőséget. (Win 10-nél a Parancssor /Command Prompt/ elérése más is lehet e menüben.)
 - Gépeld be a **Parancssor**ba, ahol látod majd az <tt> X:\Windows\System32> </tt>szöveget, hogy **F:\setup** és <kbd>[Enter]</kbd>-rel indíthatod a Windows telepítőt. 😬 Ha nem indul a telepítő (nem történik az <kbd>[Enter]</kbd>-re semmi<sup>(hajlamos a Windows 'megkeverni' ilyenkor a meghajtókat)</sup>, egyszerűen ismételd meg a parancs kiadását így: **D:\setup** <kbd>[Enter]</kbd> vagy **E:\setup** <kbd>[Enter]</kbd>, stb. (**G H I**... betűvel) amíg rátalálva a helyes betűjelre azonnal elindul a telepítő.😁 
-- A Windows telepítő programban a meglévő **0.lemez - Windows** partíciót válaszd. A **<kbd>[Telepítés]</kbd>** gombbal a régi Windowst az új Windows felülírja (**🧨MINDENT TÖRÖL!🧼**)
+- A Windows telepítő programban a meglévő **0.lemez - Windows** partíciót válaszd. A **<kbd>[Telepítés]</kbd>** gombra kattintva megkezdődik a folyamat (visszavonhatatlan), a régi Windowst az új Windows felülírja (**🧨MINDENT TÖRÖL: személyes fájlok, programok, beállítások, stb!🧼**)
  > [!TIP]
-> 💡**Tiszta telepítés lehetséges úgy is, hogy a megkezdése előtt egy másik - pl. százezer MB-os, azaz kb.100 GB-os Adat (D:) - partícióra tárolod fontos adataid /képek, videók, stb./. <sup>Ezt a partíciót is az 1.pontban írt leírás szerint készítsd el.</sup>
-> A Telepítőben csak a "Windows" (C:) partíciót törlöd/írod felül, az "Adat" (D:) partíció tartalmával együtt kezelhető marad az új Windows-zal! Nagyon praktikus megoldás ez a nagyobb kapacitású - pl. 512 GB - lemezhez... Lényegesen kevésbé kockázatos a tiszta
-> telepítés, mivel nem az egész lemezt, hanem csak a Windows partíciót írja felül a telepítő.**. 
+> 💡**Windows tiszta telepítés lehetséges úgy is, hogy a megkezdése előtt egy másik - pl. százezer MB-os, azaz kb.100 GB-os Adat (D:) - partícióra másolod fontos fájlaid /doksik, képek, videók, bármi/.
+> <sup>Ezt a partíciót is az 1.pontban írt leírás szerint készítsd el.</sup>
+> A Telepítőben csak a "Windows" (C:) partíciót törlöd/írod felül, az "Adat" (D:) partíciót nem változtatod meg, az tartalmával együtt kezelhető marad az új Windows-zal (azonnal használható lesz a tartalma telepítés után)! Nagyon praktikus megoldás ez a nagyobb
+> kapacitású - pl. 512 GB - lemezhez... Lényegesen kevésbé kockázatos a tiszta telepítés, mivel nem az egész lemezt, hanem csak a Windows partíciót írja felül a telepítő.**. 
 
 ## Két (2) Windows (dual boot)
 6. **Két Windows 1 gépen: Régi és Új** (bárkinek ajánlott, nincs kockázata).
