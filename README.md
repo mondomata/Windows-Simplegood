@@ -29,7 +29,7 @@ Ehhez lecsippentünk 1 „keveset” a meglévő lemez tárhelyünkből a gépü
 ><img width="700" height="100" alt="{433B15AD-6701-4749-B84E-929F7C2D5A9B}" src="https://github.com/user-attachments/assets/2a631adf-44fb-4baa-bcd7-c07ad0c8bf31" />
 
 
-## Windows ISO fájl
+## 📀 Windows ISO fájl
 **Letöltjük** a netről a telepítő **lemezképet**, azaz a <tt>Windows ISO</tt> fájlt: 
 - a Microsoft https://www.microsoft.com/hu-hu/software-download/windows11 oldaláról,
 - vagy (egyszerűbben) a https://msdl.gravesoft.dev/#3262 címről
