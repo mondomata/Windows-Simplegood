@@ -48,7 +48,7 @@ Ehhez lecsippentünk 1 „keveset” a meglévő lemez tárhelyünkből a gépü
 > ...Letölthetünk Windows ISO-t más kedvenc helyünkről (jóval lazább hardverkövetelményekkel), pl.: https://windowsxlite.com/  (kis hátránya, hogy angolul "beszél", de a telepítés után magyarítani lehet) vagy https://github.com/mondomata/Windows11Long_Alexa ❤️
 > (utóbbi magyar, nyomkövetőktől és hirdető/reklám progiktól mentes Windows 11!)
   
-## ISO kezelés
+## 📀 ISO kezelés
 2. Az ISO tul.képpen spec. csomagolt állomány, amely könyvtárakat (mappákat), fájlokat tartalmaz, megnyitása is speciális.
 A letöltött Windows.ISO-ra...
 - Win.11-en: a Fájkezelőben jobb kattintás, majd **⨀Csatlakoztatás** választása:
