@@ -67,7 +67,7 @@ A letöltött Windows.ISO-ra...
    - a meglévő helyére, a „régi” Windows törlésével, tiszta új Windows telepítünk (lásd 5. pont),
    - az eredeti Windows megtartása mellett egy második Windowst telepítünk (lásd 6. pont).
 
- ## 'Tiszta' Új Windows <sup>haladóknak</sup>
+ ## ⚡'Tiszta' Új Winddows<sup>haladóknak</sup>
 5. **Felülírható a meglévő Windows így ('tiszta' telepítéssel!)**:
 - **készíts a Windows Partíciókezelő**vel (1. pont szerint) egy új, kb. 10GB-os  FAT32 fájlrendszerű partíciót a lemezeden, adj neki **F:** betűjelet.  Csatold a fájlkezelőn a nevére kattintva (2.pont) a telepítő ISO-t (D: , vagy G: vagy hasonló meghajtón fog megnyílni), az ISO-ból másold az összes mappát és fájlt (fontos, hogy NEM az ISO-t, hanem a megnyitott ISO tartalmát!) az új, **F:** betűjelű üres partícióra.
 - **Windows Helyreállítási Újraindítás**: ezt a Tálca Start (ikon)-ra kattintva a <kbd>Shift</kbd> billentyű nyomva tartása közben pedig a <kbd>(|)</kbd>*Főkapcsoló* **Újraindítás**-ra kattintva lehet elindítani. Másik mód: a Windows *Powershell (vagy Terminál)* programban a **shutdown /r /o** begépelésével és <kbd>[Enter]</kbd>-rel, (kb.1perc...)
