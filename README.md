@@ -81,7 +81,7 @@ A letöltött Windows.ISO-ra...
 > kapacitású - pl. 512 GB - lemezhez... Lényegesen kevésbé kockázatos a tiszta telepítés, mivel nem az egész lemezt, hanem csak a Windows partíciót írja felül a telepítő. 
 
 ## Két (2) Windows (dual boot)
-6. **Két Windows 1 gépen: Régi és Új** (bárkinek ajánlott, nincs kockázata).
+6. **⚡Két Windows 1 gépen: Régi és Új** (bárkinek ajánlott, nincs kockázata).
 Végeredményként a telepítés után a gép indításakor a régi és az új Windows között választhatsz majd egy kettős -„dual boot”- menüből. *Nagyon egyszerű, de erősen ajánlott csak akkor alkalmazni, ha legalább 100 GB-os, vagy nagyobb szabad tárolóhely áll rendelkezésre a meglévő Windows-ban (C: meghajtó szabad hely méret).*
 - A 2. pont szerint csatolt (Win.10 esetén a winrar vagy 7zip-pel megnyitott) ISO-ban a *setup.exe*-re kattintás után felugró ablakban azonnal indul a Windows telepítés.
 - Válaszd a Windows telepítőben a **Windows** partíciót, majd abból vegyél le **Extend partition** gombbal egy min. 60000 (hatvanezer) MB-os új, "szabad/üres" partíciót. *Erre a szabad/üres partícióra kattintva kezdd meg a telepítést*...
