@@ -45,8 +45,7 @@ Ehhez lecsippentünk 1 „keveset” a meglévő lemez tárhelyünkből a gépü
 > ![{FFFC60A6-CE5D-4D29-A61A-8DD1B380D479}](https://github.com/user-attachments/assets/45b3486f-9301-40b7-9e64-758661921f1f)
 
 > [!TIP]
-> ...Letölthetünk Windows ISO-t más kedvenc helyünkről (jóval lazább hardverkövetelményekkel), pl.: https://windowsxlite.com/  (kis hátránya, hogy angolul "beszél", de a telepítés után magyarítani lehet) vagy https://github.com/mondomata/Windows11Long_Alexa ❤️
-> (utóbbi magyar, nyomkövetőktől és hirdető/reklám progiktól mentes Windows 11!)
+> ...Letölthetünk Windows ISO-t más kedvenc helyünkről (jóval lazább hardverkövetelményekkel), pl.: https://windowsxlite.com/  (kis hátránya, hogy angolul "beszél", de a telepítés után magyarítani lehet) vagy https://github.com/mondomata/Windows11Long_Alexa ❤️ (utóbbi magyar, nyomkövetőktől és hirdető/reklám progiktól mentes Windows 11!) Lényeges, hogy "gyanús" címről származó iso-t ne tölts le sehonnan; olvass utána...
   
 ## 📀 ISO kezelés
 2. Az ISO tul.képpen speciálisan csomagolt állomány, amely könyvtárakat (mappákat), fájlokat tartalmaz (hasonlóan 1 tömörített állományhoz).
