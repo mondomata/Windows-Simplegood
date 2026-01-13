@@ -50,7 +50,7 @@ Ehhez lecsippentünk 1 „keveset” a meglévő lemez tárhelyünkből a gépü
   
 ## 📀 ISO kezelés
 2. Az ISO tul.képpen speciálisan csomagolt állomány, amely könyvtárakat (mappákat), fájlokat tartalmaz (hasonlóan 1 tömörített állományhoz).
-Megnyitás: a letöltött Windows.ISO-ra a Fájkezelőben jobb kattintás, majd **⨀Csatlakoztatás** választása (avagy pl. Win.10-en egyszerűen kattints 2x a fájlnévre):
+Megnyitás: a letöltött Windows.ISO-ra a Fájkezelőben jobb kattintás, majd **⨀Csatlakoztatás** választása (avagy pl. Win.10-en egyszerűen kattints 2x a fájlnévre<sup>ha olyan régi rendszered van, ami nem kezeli az iso-t, töltsd le a netről pl.a 7zip-et / https://7zip.org /, az kezeli...):
    ![{C653C4A7-D76C-4838-835F-EB3B21020301}](https://github.com/user-attachments/assets/2778f1c2-580c-487f-8a53-571da122c13a)
  
 3. Windows ISO tartalom, felépítés (tipikusan):
