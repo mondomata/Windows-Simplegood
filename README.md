@@ -49,11 +49,9 @@ Ehhez lecsippentünk 1 „keveset” a meglévő lemez tárhelyünkből a gépü
 > (utóbbi magyar, nyomkövetőktől és hirdető/reklám progiktól mentes Windows 11!)
   
 ## 📀 ISO kezelés
-2. Az ISO tul.képpen spec. csomagolt állomány, amely könyvtárakat (mappákat), fájlokat tartalmaz, megnyitása is speciális.
-A letöltött Windows.ISO-ra...
-- Win.11-en: a Fájkezelőben jobb kattintás, majd **⨀Csatlakoztatás** választása:
+2. Az ISO tul.képpen speciálisan csomagolt állomány, amely könyvtárakat (mappákat), fájlokat tartalmaz (hasonlóan 1 tömörített állományhoz).
+Megnyitás: a letöltött Windows.ISO-ra a Fájkezelőben jobb kattintás, majd **⨀Csatlakoztatás** választása (avagy pl. Win.10-en egyszerűen kattints 2x a fájlnévre):
    ![{C653C4A7-D76C-4838-835F-EB3B21020301}](https://github.com/user-attachments/assets/2778f1c2-580c-487f-8a53-571da122c13a)
-- Win.10,8,7 esetén lehet, hogy az ISO csak külső programmal, pl. winrar, 7zip nyitható meg. (https://7zip.org)
  
 3. Windows ISO tartalom, felépítés (tipikusan):
   ![{98ECB815-6026-4CE9-BA78-8EE0756B5A50}](https://github.com/user-attachments/assets/dc4f5c8c-2210-48ed-8dc1-5d1a762a79b7)
@@ -69,7 +67,7 @@ A letöltött Windows.ISO-ra...
 
  ## ⚡'Tiszta' Új Windows<sup>haladóknak</sup>
 5. **Felülírható a meglévő Windows így ('tiszta' telepítéssel!)**:
-- **készíts a Windows Partíciókezelő**vel (1. pont szerint) egy új, kb. 10GB-os partíciót a lemezeden, adj neki **F:** betűjelet.  Csatold a fájlkezelőn a nevére kattintva (2.pont) a telepítő ISO-t (D: , vagy G: vagy hasonló meghajtón fog megnyílni), az ISO-ból másold az összes mappát és fájlt (fontos, hogy NEM az ISO-t, hanem a megnyitott ISO tartalmát!) az új, **F:** betűjelű üres partícióra.
+- **készíts a Windows Partíciókezelő**vel (1. pont szerint) egy új, kb. 10GB-os partíciót a lemezeden, adj neki **F:** betűjelet.  Csatold a fájlkezelőn a nevére kattintva (2.pont) a telepítő ISO-t (D: , vagy G: vagy hasonló meghajtón fog megnyílni), az ISO-ból másold az összes mappát és fájlt (fontos, hogy NEM az ISO-t, hanem a 2.pont szerint *megnyitott ISO tartalmát*!) az új, **F:** betűjelű üres partícióra.
 - **Windows Helyreállítási Újraindítás**: ezt a Tálca Start (ikon)-ra kattintva a <kbd>Shift</kbd> billentyű nyomva tartása közben pedig a <kbd>(|)</kbd>*Főkapcsoló* **Újraindítás**-ra kattintva lehet elindítani. Másik mód: a Windows *Powershell (vagy Terminál)* programban a **shutdown /r /o** begépelésével és <kbd>[&#8629;Enter]</kbd>-rel, (kb.1perc...)
 - a **helyreállító menüben** (világoskék csempék) válaszd sorrendben a *Hibaelhárítás -> Speciális lehetőségek -> Parancssor* lehetőséget. (Win 10-nél a Parancssor /Command Prompt/ elérése más is lehet e menüben.)
 - Gépeld be a **Parancssor**ba, ahol látod majd az <tt> X:\Windows\System32> </tt>szöveget, hogy **F:\setup** és <kbd>[&#8629;Enter]</kbd>-rel indíthatod a Windows telepítőt. 😬 Ha nem indul a telepítő, azaz nem történik az <kbd>[&#8629;Enter]</kbd>-re semmi<sup>(mert hajlamos a Windows 'megkeverni' ilyenkor a meghajtókat)</sup>, egyszerűen ismételd meg a parancs kiadását így: **D:\setup** <kbd>[&#8629;Enter]</kbd> vagy **E:\setup** <kbd>[&#8629;Enter]</kbd>, stb. (**G H I**... betűvel) amíg rátalálva a helyes betűjelre azonnal elindul a telepítő.😁 
