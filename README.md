@@ -45,7 +45,7 @@ Ehhez lecsippentünk 1 „keveset” a meglévő lemez tárhelyünkből a gépü
 > ![{FFFC60A6-CE5D-4D29-A61A-8DD1B380D479}](https://github.com/user-attachments/assets/45b3486f-9301-40b7-9e64-758661921f1f)
 
 > [!TIP]
-> ...Letölthetünk Windows ISO-t más kedvenc helyünkről (jóval lazább hardverkövetelményekkel), pl.: https://windowsxlite.com/  (a Windows XLite kis hátránya, hogy csak angolul "beszél", de a telepítés után magyarítani lehet) vagy  itt a [Windows11Long_Alexa] ❤️ (utóbbi magyar, nyomkövetőktől és hirdető/reklám progiktól mentes Windows 11!) Lényeges, hogy gyanús címről származó iso-t ne tölts le sehonnan; olvass utána...
+> ...Letölthetünk Windows ISO-t más kedvenc helyünkről (jóval lazább hardverkövetelményekkel), pl.: https://windowsxlite.com/  (a Windows XLite kis hátránya, hogy csak angolul "beszél", de a telepítés után magyarítani lehet) vagy  itt a [Windows11Long_Alexa](https://github.com/mondomata/Windows11Long_Alexa) ❤️ (utóbbi magyar, nyomkövetőktől és hirdető/reklám progiktól mentes Windows 11!) Lényeges, hogy gyanús címről származó iso-t ne tölts le sehonnan; olvass utána...
   
 ## 📀 ISO kezelés
 2. Az ISO tul.képpen speciálisan csomagolt állomány, amely könyvtárakat (mappákat), fájlokat tartalmaz (hasonlóan 1 tömörített állományhoz).
@@ -89,7 +89,7 @@ Végeredményként a telepítés után a gép indításakor a régi és az új W
   Ennyi.🙌🙌🙌
 
 > [!TIP]
-> **USB tárolós ('pendrájvos') telepítés részletes leírását keresed? <a href="../Windows11Long_Alexa?tab=readme-ov-file#%EF%B8%8Ftelep%C3%ADt%C3%A9si-adathordoz%C3%B3-k%C3%A9sz%C3%ADt%C3%A9se-windows-on">Itt van ilyen is!</a> 🥳 Windows aktiválás is van a telepítőben.**
+> **USB tárolós ('pendrájvos') telepítés részletes leírását keresed? <a href="https://github.com/mondomata/Windows11Long_Alexa?tab=readme-ov-file#%EF%B8%8Ftelep%C3%ADt%C3%A9si-adathordoz%C3%B3-k%C3%A9sz%C3%ADt%C3%A9se-windows-on">Itt van ilyen is!</a> 🥳 Windows aktiválás is van a telepítőben.**
    
 > [!IMPORTANT]
 > ☝️☝️☝️<b>Fontos: NE piszkáld sem a Lemezkezelőben, sem a Windows Telepítőben a System (Rendszer) és Recovery (Helyreállítási) partíciót (hagyd úgy, ahogy vannak)!!!</b> Célszerű a
