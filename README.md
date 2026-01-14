@@ -10,8 +10,7 @@
 ## Telepítő Partíció <sup>(USB adathordozó helyett)</sup>
 1. Adathordozó (pl. USB) használata helyett a gépünk lemezén (ez a tárhely jóval gyorsabb, mint az USB) készítünk és használunk Windows telepítőt.
 Ehhez lecsippentünk 1 „keveset” a meglévő lemez tárhelyünkből a gépünkön:
-- Egér jobboldali gombbal ( 🖱️<sub>↖️</sub> ) klikk a Windows Start<kbd>![windowsbill](https://github.com/user-attachments/assets/6e47728d-5bf1-45a7-8cf9-5f72a2cb16a9)
-</kbd> tálcaikonon, majd a felugró listán **Lemezkezelés** választása. 
+- Egér jobboldali gombbal ( 🖱️<sub>↖️</sub> ) klikk a Windows Start **&plusb;** tálcaikonon, majd a felugró listán **Lemezkezelés** választása. 
 - A Lemezkezelés ablakban jobbgombos egér klikk a kéksávos **Windows (C:)** kötetre, majd a helyi menüben klikk: *Kötet zsugorítása*.<br>
    ![{47A9DFF5-E60C-4ECA-94F6-59443057CF51}](https://github.com/user-attachments/assets/88f57747-cd34-4f29-8abd-53538ee28ab2)
 - A felugró ablakban a *zsugorítandó* méretet beállítjuk *10000 (tízezer) MB*-ra (ez kb.9,7 GB) majd jóváhagyjuk az új partíció készítést.(1-2+perc)<br>
