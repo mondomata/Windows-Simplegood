@@ -1,4 +1,5 @@
-# 👑 &plusb; Windows-Simplegood 👌👍🙌
+# 👑 &plusb; Windows-Simplegood 👌👍🙌   <img width="30" height="30" alt="{CB29AE2F-4EB0-4296-9E65-A102A58D5F70}" src="https://github.com/user-attachments/assets/812888c2-8380-4678-b883-96c83ad6ba5a" />
+
 > [!TIP]
 > **Windows-Szimplajó telepítés beépített HDD/SSD lemezen: USB eszköz nélkül egyszerűbb, sokkal gyorsabb a Windows telepítés és nem igényli a Windows ISO fájl gyakori szokás szerinti
 > kiírását külső programmal, mint pl. Rufus, vagy Media Creation Tool...
