@@ -9,12 +9,12 @@
 > Óriási erő kell 1 Windowst elrontani...igazából csak a nagyon gyengének sikerülhet. Annak is itt van ez!🥳🥳🥳
  
 ## Telepítő Partíció <sup>(USB adathordozó helyett)</sup>
-1. Adathordozó (pl. USB) használata helyett a gépünk lemezén (ez a tárhely jóval gyorsabb, mint az USB) készítünk és használunk Windows telepítőt.
-Ehhez lecsippentünk 1 „keveset” a meglévő lemez tárhelyünkből a gépünkön:
+1. Adathordozó (pl. USB) használata helyett a gép lemezén (ez a tárhely jóval gyorsabb, mint az USB) készít és használ Windows telepítőt.
+Ehhez lecsippentesz 1 „keveset” a meglévő lemez tárhelyből a gépen:
 - Egér jobboldali gombbal ( 🖱️<sub>↖️</sub> ) klikk a Windows Start **&plusb;** tálcaikonon, majd a felugró listán **Lemezkezelés** választása. 
 - A Lemezkezelés ablakban jobbgombos egér klikk a kéksávos **Windows (C:)** kötetre, majd a helyi menüben klikk: *Kötet zsugorítása*.<br>
    ![{47A9DFF5-E60C-4ECA-94F6-59443057CF51}](https://github.com/user-attachments/assets/88f57747-cd34-4f29-8abd-53538ee28ab2)
-- A felugró ablakban a *zsugorítandó* méretet beállítjuk *10000 (tízezer) MB*-ra (ez kb.9,7 GB) majd jóváhagyjuk az új partíció készítést.(1-2+perc)<br>
+- A felugró ablakban a *zsugorítandó* méretet beállítod *10000 (tízezer) MB*-ra (ez kb.9,7 GB) majd jóváhagyod az új partíció készítést.(1-2+perc)<br>
    ![{3DEDB19B-E53F-4C3D-9578-5B79537053F4}](https://github.com/user-attachments/assets/2400f183-6a6f-4190-9ea4-ab75882d7ad7)
 - Most az új (fekete sávos) **Lefoglalatlan partíció**ra jobb gombos egér klikk, majd a felugró listán *Új, egyszerű kötet* parancsra klikkelj. Klikkeld  végig - tovább, tovább... mindent elfogadva - a particionálási folyamatot, aminek eredményeként kapsz egy betűjellel ellátott kötetet/meghajtót „Új kötet” néven (ha particionálás közben nem nevezted át). A betűjelet particionálás közben automatikusan felajánlja a Lemezkezelő, általában **D:** a jó, ha nincs több partíció/meghajtó, ha van már ilyen, akkor a soron következő betű, pl. E:, F: stb. lesz a jó. Megfelelően követve a leírást a "fekete sávos" üres hely "kék sávos" partícióra változik... Zárd be a lemezkezelőt. Ha jól csináltad, a Fájlkezelőben is megjelenik az új kötet (partíció/meghajtó), új betűjellel.
 
