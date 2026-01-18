@@ -40,9 +40,6 @@ Ehhez lecsippentesz 1 „keveset” a meglévő lemez tárhelyből a gépen:
 > gyártott intel proci, vagy Win11 által támogatott Ryzen, stb. megfelelő gépre telepíthetők eredetiben, járj utána a neten, ha nem tudod, mi az. 
 > Az egyik kritikus hardver a TPM2 biztonsági eszköz, ezt könnyen ellenőrizheted; jobb klikk a Start &plusb; ikonon, futtatás: **tpm.msc** begépelésére és <kbd>Enter</kbd>-re
 > felugró ablakban részletes tájékoztatás jelenik meg a saját géped TPM eszközéről (ha 2-nél alacsonyabb spec.verziós, NEM lehet a gépedre eredeti MS Windows 11-et telepíteni  ((┬┬﹏┬┬)). 
-> Pl. a Windows X-Lite vagy a ❤️ Win11Long_Alexa ISO-kban ki van kapcsolva a TPM2 ellenőr, tehát akadálytalanul települhet szinte
-> bármely, viszonylag régebbi számítógépre is.</sup><br>
-> ![{FFFC60A6-CE5D-4D29-A61A-8DD1B380D479}](https://github.com/user-attachments/assets/45b3486f-9301-40b7-9e64-758661921f1f)
 
 > [!TIP]
 > ...Letölthetünk megbízható Windows ISO-t más kedvenc helyünkről (jóval lazább hardverkövetelményekkel), pl.: https://windowsxlite.com/  (a Windows XLite kis hátránya, hogy csak angolul "beszél", de a telepítés után magyarítani lehet) vagy  itt a [Windows11Long_Alexa](https://github.com/mondomata/Windows11Long_Alexa) ❤️ (utóbbi magyar, nyomkövetőktől és hirdető/reklám progiktól mentes Windows 11!) <tt>Lényeges, hogy gyanús címről származó iso-t ne tölts le sehonnan; olvass utána...</tt>
