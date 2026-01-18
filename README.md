@@ -9,7 +9,7 @@
 > Óriási erő kell 1 Windowst elrontani...igazából csak a nagyon gyengének sikerülhet. Annak is itt van ez!🥳🥳🥳
  
 ## Telepítő Partíció <sup>(USB adathordozó helyett)</sup>
-1. Adathordozó (pl. USB) használata helyett a gép lemezén (ez a tárhely jóval gyorsabb, mint az USB) készít és használ Windows telepítőt.
+1. Adathordozó (pl. USB) használata helyett a gép lemezén (ez a tárhely jóval gyorsabb, mint az USB) készíts és használj Windows telepítőt.
 Ehhez lecsippentesz 1 „keveset” a meglévő lemez tárhelyből a gépen:
 - Egér jobboldali gombbal ( 🖱️<sub>↖️</sub> ) klikk a Windows Start **&plusb;** tálcaikonon, majd a felugró listán **Lemezkezelés** választása. 
 - A Lemezkezelés ablakban jobbgombos egér klikk a kéksávos **Windows (C:)** kötetre, majd a helyi menüben klikk: *Kötet zsugorítása*.<br>
