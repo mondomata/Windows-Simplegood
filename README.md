@@ -16,7 +16,7 @@ Ehhez lecsippentünk 1 „keveset” a meglévő lemez tárhelyünkből a gépü
    ![{47A9DFF5-E60C-4ECA-94F6-59443057CF51}](https://github.com/user-attachments/assets/88f57747-cd34-4f29-8abd-53538ee28ab2)
 - A felugró ablakban a *zsugorítandó* méretet beállítjuk *10000 (tízezer) MB*-ra (ez kb.9,7 GB) majd jóváhagyjuk az új partíció készítést.(1-2+perc)<br>
    ![{3DEDB19B-E53F-4C3D-9578-5B79537053F4}](https://github.com/user-attachments/assets/2400f183-6a6f-4190-9ea4-ab75882d7ad7)
-- Most az új (fekete sávos) **Lefoglalatlan partíció**ra jobb gombos egér klikk, majd a felugró listán *Új, egyszerű kötet* parancsra klikkelj. Végig klikkeljük - tovább, tovább... mindent elfogadva - a particionálási folyamatot, aminek eredményeként kapunk egy betűjellel ellátott kötetet/meghajtót „Új kötet” néven (ha particionálás közben nem neveztük át). A betűjelet particionálás közben automatikusan felajánlja a Lemezkezelő, általában **D:** a jó, ha nincs több partíció/meghajtó, ha van már ilyen, akkor a soron következő betű, pl. E:, F: stb. lesz a jó. Megfelelően követve a leírást a "fekete sávos" üres hely "kék sávos" partícióra változik... Bezárjuk a lemezkezelőt. Ha jól csináltuk, a Fájlkezelőben is megjelenik az új kötet (partíció/meghajtó), új betűjellel.
+- Most az új (fekete sávos) **Lefoglalatlan partíció**ra jobb gombos egér klikk, majd a felugró listán *Új, egyszerű kötet* parancsra klikkelj. Klikkeld  végig - tovább, tovább... mindent elfogadva - a particionálási folyamatot, aminek eredményeként kapsz egy betűjellel ellátott kötetet/meghajtót „Új kötet” néven (ha particionálás közben nem nevezted át). A betűjelet particionálás közben automatikusan felajánlja a Lemezkezelő, általában **D:** a jó, ha nincs több partíció/meghajtó, ha van már ilyen, akkor a soron következő betű, pl. E:, F: stb. lesz a jó. Megfelelően követve a leírást a "fekete sávos" üres hely "kék sávos" partícióra változik... Zárd be a lemezkezelőt. Ha jól csináltad, a Fájlkezelőben is megjelenik az új kötet (partíció/meghajtó), új betűjellel.
 
 > [!NOTE]
 > Íme a képen egy tipikus partíciós tábla, ahol a "tartalékként" is használt Windows telepítő ISO tartalma az **F:** (wininstall-nak elnevezett) partícióra/meghajtóra van helyezve (...és D: partíció is van külön a személyes fájloknak):
@@ -30,7 +30,7 @@ Ehhez lecsippentünk 1 „keveset” a meglévő lemez tárhelyünkből a gépü
 
 
 ## 📀 Windows ISO fájl
-**Letöltjük** a netről a telepítő **lemezképet**, azaz a <tt>Windows ISO</tt> fájlt: 
+**Letöltöd** a netről a telepítő **lemezképet**, azaz a <tt>Windows ISO</tt> fájlt: 
 - a Microsoft https://www.microsoft.com/hu-hu/software-download/windows11 oldaláról,
 - vagy (egyszerűbben) a https://msdl.gravesoft.dev/#3262 címről
 <br><tt>😒 ...ezek szigorú hardverkövetelményű Windows 11 25H2 iso-k</tt>.
@@ -61,8 +61,8 @@ Megnyitás: a letöltött Windows.ISO-ra a Fájkezelőben jobb kattintás, majd 
 4. A Telepítő Program felületen (*ez 1 Windows Telepítés című ablakban, a Windows telepítési folyamat során megjelenő grafikus, interaktív felület, amely végig vezet a telepítési folyamat meghatározott lépésein*) kritikus teendő az *új Windows partíciójának kijelölése*.
    <br>
    2 alapvető lehetőség van:
-   - a meglévő helyére, a „régi” Windows törlésével, tiszta új Windows telepítünk (lásd 5. pont),
-   - az eredeti Windows megtartása mellett egy második Windowst telepítünk (lásd 6. pont).
+   - a meglévő helyére, a „régi” Windows törlésével, tiszta új Windows telepítesz (lásd 5. pont),
+   - az eredeti Windows megtartása mellett egy második Windowst telepítesz (lásd 6. pont).
    - Mindkét esetben **segíthet** a telepítésben, ha a **C:** (Windows) partíció teljes méretét (GB) feljegyzed előtte (1 GB = 1024 MB!).
 
  ## ⚡'Tiszta' Új Windows<sup>haladóknak</sup>
