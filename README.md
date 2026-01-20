@@ -87,7 +87,7 @@ Végeredményként a telepítés után a gép indításakor a régi és az új W
 > [!TIP]
 > *Ha nem szeretnél a telepítés közben bajlódni az új, második Windows partícióval, a fentebb 1. pont szerint eljárva készíts még a telepítés megkezdése előtt egy min.60000 (hatvanezer)MB-os, NTFS partíciót, ezt válaszd majd a telepítő programban a partíciók közül!*
 
-  Ennyi.🙌🙌🙌 Ha meghívnál 1 kávéra, azt legegyszerűbben itt teheted: https://revolut.me/mondomata
+  Ennyi.🙌🙌🙌 <sub>☕Ha tetszik, kérlek lájkold a webhelyet és ha meghívnál 1 kávéra, azt legegyszerűbben itt teheted: https://revolut.me/mondomata</sub>
 
 > [!TIP]
 > **USB tárolós ('pendrájvos') telepítés részletes leírását keresed? <a href="https://github.com/mondomata/Windows11Long_Alexa?tab=readme-ov-file#%EF%B8%8Ftelep%C3%ADt%C3%A9si-adathordoz%C3%B3-k%C3%A9sz%C3%ADt%C3%A9se-windows-on">Itt van ilyen is!</a> 🥳 Windows aktiválás is van a telepítőben.**
