@@ -9,7 +9,7 @@
 > Óriási erő kell 1 Windowst elrontani...igazából csak a nagyon gyengének sikerülhet. Annak is itt van ez!🥳🥳🥳
  
 ## Telepítő Partíció <sup>(USB adathordozó helyett)</sup>
-1. Adathordozó (pl. USB) használata helyett a gép lemezén (ez a tárhely jóval gyorsabb, mint az USB) készíts és használj Windows telepítőt.
+(1) Adathordozó (pl. USB) használata helyett a gép lemezén (ez a tárhely jóval gyorsabb, mint az USB) készíts és használj Windows telepítőt.
 Ehhez lecsippentesz 1 „keveset” a meglévő lemez tárhelyből a gépen:
 - Egér jobboldali gombbal ( 🖱️<sub>↖️</sub> ) klikk a Windows Start **&plusb;** tálcaikonon, majd a felugró listán **Lemezkezelés** választása. 
 - A Lemezkezelés ablakban jobbgombos egér klikk a kéksávos **Windows (C:)** kötetre, majd a helyi menüben klikk: *Kötet zsugorítása*.<br>
@@ -45,17 +45,17 @@ Ehhez lecsippentesz 1 „keveset” a meglévő lemez tárhelyből a gépen:
 > ...Letölthetünk megbízható Windows ISO-t más kedvenc helyünkről (jóval lazább hardverkövetelményekkel), pl.: https://windowsxlite.com/  (a Windows XLite kis hátránya, hogy csak angolul "beszél", de a telepítés után magyarítani lehet) vagy  itt a [Windows11Long_Alexa](https://github.com/mondomata/Windows11Long_Alexa) ❤️ (utóbbi magyar, nyomkövetőktől és hirdető/reklám progiktól mentes Windows 11!) <tt>Lényeges, hogy gyanús címről származó iso-t ne tölts le sehonnan; olvass utána...</tt>
   
 ## 📀 ISO kezelés
-2. Az ISO tul.képpen speciálisan csomagolt állomány, amely könyvtárakat (mappákat), fájlokat tartalmaz (hasonlóan 1 tömörített állományhoz).
+(2) Az ISO tul.képpen speciálisan csomagolt állomány, amely könyvtárakat (mappákat), fájlokat tartalmaz (hasonlóan 1 tömörített állományhoz).
 Megnyitás: a letöltött Windows.ISO-ra a Fájkezelőben jobb kattintás, majd **⨀Csatlakoztatás** választása (avagy pl. Win.10-en egyszerűen kattints 2x a fájlnévre <sup>(ha olyan régi Windowsod van, ami nem kezeli az iso-t, töltsd le a netről pl.a 7zip-et / https://7zip.org /, az jól kezeli...)</sup>:
    ![{C653C4A7-D76C-4838-835F-EB3B21020301}](https://github.com/user-attachments/assets/2778f1c2-580c-487f-8a53-571da122c13a)
  
-3. Windows ISO tartalom, felépítés (tipikusan):
+(3) Windows ISO tartalom, felépítés (tipikusan):
   ![{98ECB815-6026-4CE9-BA78-8EE0756B5A50}](https://github.com/user-attachments/assets/dc4f5c8c-2210-48ed-8dc1-5d1a762a79b7)
 
 - az eredeti MS Windows.iso állományok kivétel nélkül tartalmazzák a fotón látható mappákat és fájlokat (méretek változók + egyéb is lehet),
 - a telepítés indító fájl, a **setup.exe** zömmel a legfelső könyvtárban van, egyes telepítőknél - pl. Windows X-Lite - viszont nincs support mappa, illetve a *setup.exe a sources mappában* van.
 
-4. A Telepítő Program felületen (*ez 1 Windows Telepítés című ablakban, a Windows telepítési folyamat során megjelenő grafikus, interaktív felület, amely végig vezet a telepítési folyamat meghatározott lépésein*) kritikus teendő az *új Windows partíciójának kijelölése*.
+(4) A Telepítő Program felületen (*ez 1 Windows Telepítés című ablakban, a Windows telepítési folyamat során megjelenő grafikus, interaktív felület, amely végig vezet a telepítési folyamat meghatározott lépésein*) kritikus teendő az *új Windows partíciójának kijelölése*.
    <br>
    2 alapvető lehetőség van:
    - a meglévő helyére, a „régi” Windows törlésével, tiszta új Windows telepítesz (lásd 5. pont),
@@ -63,7 +63,7 @@ Megnyitás: a letöltött Windows.ISO-ra a Fájkezelőben jobb kattintás, majd 
    - Mindkét esetben **segíthet** a telepítésben, ha a **C:** (Windows) partíció teljes méretét (GB) feljegyzed előtte (1 GB = 1024 MB!).
 
  ## ⚡'Tiszta' Új Windows<sup>haladóknak</sup>
-5. **Felülírható a meglévő Windows így ('tiszta' telepítéssel!)**:
+(5) **Felülírható a meglévő Windows így ('tiszta' telepítéssel!)**:
 - **készíts a Windows Lemezkezelő**vel (1. pont szerint) egy új, kb. 10GB-os partíciót a lemezeden, adj neki **F:** betűjelet <sup>(10 GB helyett lehet kisebb, pl. 5 GB-os (5120 MB) is a partíció, a lényeg, hogy nagyobb legyen kicsivel, mint a választott ISO fájl mérete, hogy az rá férjen)</sup>.  Csatold a fájlkezelőn a nevére kattintva (2.pont) a telepítő ISO-t (D: , vagy G: vagy hasonló meghajtón fog megnyílni), az ISO-ból **másold az összes mappát és fájlt** (fontos, hogy NEM az ISO-t, hanem a 2.pont szerint *megnyitott ISO tartalmát*!) az új, **F:** betűjelű üres partícióra.
 - **Windows Helyreállítási Újraindítás**: ez a Tálca Start &plusb; ikonra, majd a <kbd>(|)</kbd>*Főkapcsoló* > **Újraindítás**-ra a <kbd>Shift</kbd> billentyű *nyomva tartása közben* rákattintva lehetséges. Másik mód: a Windows *Powershell (vagy Terminál)* programban ***shutdown /r /o*** begépelésével és <kbd>[&#8629;Enter]</kbd>-rel, (kb.1perc...)
 - a **helyreállító menüben** (világoskék csempék) válaszd sorrendben a *Hibaelhárítás -> Speciális lehetőségek -> Parancssor* lehetőséget. (Win 10-nél a Parancssor elérése más is lehet e menüben.)
@@ -79,7 +79,7 @@ Megnyitás: a letöltött Windows.ISO-ra a Fájkezelőben jobb kattintás, majd 
 > kapacitású - pl. 512 GB - lemezhez... Lényegesen kevésbé kockázatos a tiszta telepítés, mivel nem az egész lemezt, hanem csak a Windows partíciót írja felül a telepítő. 
 
 ## ⚡Két (2) Windows (dual boot)
-6. **Két Windows 1 gépen: Régi és Új** (bárkinek ajánlott, nincs kockázata).
+(6) **Két Windows 1 gépen: Régi és Új** (bárkinek ajánlott, nincs kockázata).
 Végeredményként a telepítés után a gép indításakor a régi és az új Windows között választhatsz majd egy kettős -„dual boot”- menüből. *Nagyon egyszerű, de erősen ajánlott csak akkor alkalmazni, ha legalább 100 GB-os, vagy nagyobb szabad tárolóhely áll rendelkezésre a meglévő Windows-ban (C: meghajtó szabad hely méret).*
 - A 2. pont szerint csatolt (Win.10 esetén a winrar vagy 7zip-pel megnyitott) ISO-ban a *setup.exe*-re kattintás után felugró ablakban azonnal indul a Windows telepítés.
 - Válaszd a Windows telepítőben a meglévő  **Windows** partíciót (ez a 0.lemezen általában legnagyobb foglalt hely), majd abból vegyél le **Extend partition** gombbal egy min. 60000 (hatvanezer) MB-os új, "szabad/üres" partíciót. *Erre a szabad/üres partícióra kattintva kezdd meg a telepítést*...
