@@ -6,7 +6,7 @@
 > <br><sup>'Csak' 1 meglévő (bármilyen) Windows kell hozzá😬 Érdemes először végig olvasni, aztán lépni... (3 perc)</sup>**
 
 > [!NOTE]
-> Óriási erő kell 1 Windowst elrontani...igazából csak a nagyon gyengének sikerülhet. Annak is itt van ez!🥳🥳🥳
+> Óriási erő kell 1 Windowst elrontani...igazából csak a nagyon gyengének sikerülhet. Annak is itt van ez a menedék!🥳🥳🥳
  
 ## Telepítő Partíció <sup>(USB adathordozó helyett)</sup>
 (1) Adathordozó (pl. USB) használata helyett a gép lemezén (ez a tárhely jóval gyorsabb, mint az USB) készíts és használj Windows telepítőt.
