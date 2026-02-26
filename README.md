@@ -1,4 +1,5 @@
-# 👑 &plusb; Windows-Simplegood 👌   <img width="30" height="30" alt="{CB29AE2F-4EB0-4296-9E65-A102A58D5F70}" src="https://github.com/user-attachments/assets/812888c2-8380-4678-b883-96c83ad6ba5a" />
+# 👑 &plusb; Windows-Simplegood 👌   <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/ee9950c7-fa72-4252-8cff-d4242c225dda" />
+
 
 > [!TIP]
 > **Windows-Szimplajó telepítés beépített HDD/SSD lemezen: USB eszköz nélkül egyszerűbb, sokkal gyorsabb a Windows telepítés és nem igényli a Windows ISO fájl gyakori szokás szerinti
