@@ -36,10 +36,13 @@ Ehhez lecsippentesz 1 „keveset” a meglévő lemez tárhelyből a gépen:
 
 ## 📀 Windows ISO fájl
 **Letöltöd** a netről a telepítő **lemezképet**, azaz a <tt>Windows ISO</tt> fájlt: 
+
 <tt>😒 ...ezek szigorú hardverkövetelményű Windows 11 25H2 iso-k, ezért érdemes megfontolni inkább a teljesen biztonságos lehetőségeket lejjebb, a TIP-nél...</tt>
+
 - a Microsoft https://www.microsoft.com/hu-hu/software-download/windows11 oldaláról,
+
 - vagy (egyszerűbben) a https://msdl.gravesoft.dev/#3262 címről
-<tt>😒 ...ezek szigorú hardverkövetelményű Windows 11 25H2 iso-k</tt>.
+
 
 > [!WARNING]
 > <sup>☝️ A **MS eredeti Windows 11** ISO-k (kivéve az Enterprise👌) csak a MS szerinti hardverkövetelményeknek, úgymint: secureboot, TPM2, minimum 4 GB RAM, 2009. után
