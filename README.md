@@ -51,7 +51,7 @@ Ehhez lecsippentesz 1 „keveset” a meglévő lemez tárhelyből a gépen:
 > felugró ablakban részletes tájékoztatás jelenik meg a saját géped TPM eszközéről (ha 2-nél alacsonyabb spec.verziós, NEM lehet a gépedre eredeti MS Windows 11-et telepíteni  ((┬┬﹏┬┬)). 
 
 > [!TIP]
-> ...Letölthetünk megbízható Windows ISO-t más kedvenc helyünkről (jóval lazább hardverkövetelményekkel), pl.:
+> ...Letölthetünk megbízható Windows ISO-t más kedvenc helyünkről (jóval lazább hardverkövetelményekkel, max. biztonsággal), pl.:
 
 >  itt a [Windows11Long_Alexa](https://github.com/mondomata/Windows11Long_Alexa) ❤️ (magyar, nyomkövetőktől és hirdető/reklám progiktól, valamint "Windows szeméttől" mentes, optimalizált Windows 11!)
 
