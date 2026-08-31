@@ -39,9 +39,9 @@ Ehhez lecsippentesz 1 „keveset” a meglévő lemez tárhelyből a gépen:
 
 <tt>😒 ...ezek a Microsoft Windows 11 25H2 iso-k, ezért érdemes megfontolni inkább a teljesen biztonságos lehetőségeket lejjebb, a 💡Tip-nél...</tt>
 
-- a Microsoft https://www.microsoft.com/hu-hu/software-download/windows11 oldaláról,
+- a Microsoft https://www.microsoft.com/hu-hu/software-download/windows11 oldaláról (ott keresd a "Windows 11-lemezkép (ISO) letöltése x64-es eszközökre" című részt),
 
-- vagy (egyszerűbben) a https://msdl.gravesoft.dev/ címről (ott az ID 3262 a legújabb)
+- vagy (egyszerűbben) a https://msdl.gravesoft.dev/ címről (ott az ID 3262 a legújabb Windows 11)
 
 
 > [!WARNING]
