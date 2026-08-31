@@ -52,11 +52,10 @@ Ehhez lecsippentesz 1 „keveset” a meglévő lemez tárhelyből a gépen:
 
 > [!TIP]
 > ...Letölthetünk megbízható Windows ISO-t más kedvenc helyünkről (jóval lazább hardverkövetelményekkel, max. biztonsággal), pl.:
-
 >  itt a [Windows11Long_Alexa](https://github.com/mondomata/Windows11Long_Alexa) ❤️ (magyar, nyomkövetőktől és hirdető/reklám progiktól, valamint "Windows szeméttől" mentes, optimalizált Windows 11, rendkívül hosszú támogatási idővel!)
-
+> 
 >  https://windowsxlite.com/  (a Windows XLite kis hátránya, hogy csak angolul "beszél", de a telepítés után magyarítani lehet, jól optimalizált rendszer)
-
+> 
 > <tt>Lényeges, hogy gyanús címről származó iso-t ne tölts le sehonnan; olvass utána...</tt>
   
 ## 📀 ISO kezelés
