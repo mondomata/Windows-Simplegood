@@ -37,7 +37,7 @@ Ehhez lecsippentesz 1 „keveset” a meglévő lemez tárhelyből a gépen:
 ## 📀 Windows ISO fájl
 **Letöltöd** a netről a telepítő **lemezképet**, azaz a <tt>Windows ISO</tt> fájlt: 
 
-<tt>😒 ...ezek a Microsoft Windows 11 25H2 iso-k, ezért érdemes megfontolni inkább a teljesen biztonságos lehetőségeket lejjebb, a 💡Tip-nél...</tt>
+<tt>😒 ...ezek a Microsoft Windows 11 25H2 iso-k szigorú hardverkövetelményűek, ezért érdemes megfontolni inkább a teljesen biztonságos lehetőségeket lejjebb, a 💡Tip-nél...</tt>
 
 - a Microsoft https://www.microsoft.com/hu-hu/software-download/windows11 oldaláról <sup>(ott keresd a "Windows 11-lemezkép (ISO) letöltése x64-es eszközökre" című részt)</sup>
 
