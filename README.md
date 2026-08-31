@@ -41,7 +41,7 @@ Ehhez lecsippentesz 1 „keveset” a meglévő lemez tárhelyből a gépen:
 
 - a Microsoft https://www.microsoft.com/hu-hu/software-download/windows11 oldaláról,
 
-- vagy (egyszerűbben) a https://msdl.gravesoft.dev/#3262 címről
+- vagy (egyszerűbben) a https://msdl.gravesoft.dev/ címről (ott az ID 3262 a legújabb)
 
 
 > [!WARNING]
